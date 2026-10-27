@@ -11,16 +11,16 @@ The project simulates a practical data analyst workflow, from raw data preparati
 
 ## Tools Used
 
-- **MySQL 8.0 / MySQL Workbench** — data cleaning, transformation, joins, and SQL analysis
-- **Power BI** — data modeling, DAX measures, KPI cards, and interactive visualizations
-- **CSV** — source data format
+- **MySQL 8.0 / MySQL Workbench** - data cleaning, transformation, joins, and SQL analysis
+- **Power BI** - data modeling, DAX measures, KPI cards, and interactive visualizations
+- **CSV** - source data format
 
 ## Dataset
 
 The project uses two fictional datasets:
 
-- `customers_messy.csv` — customer information, including customer IDs, names, and states.
-- `transactions_messy.csv` — transaction records, including transaction IDs, customer IDs, dates, categories, amounts, payment methods, and transaction statuses.
+- `customers_messy.csv` - customer information, including customer IDs, names, and states.
+- `transactions_messy.csv` - transaction records, including transaction IDs, customer IDs, dates, categories, amounts, payment methods, and transaction statuses.
 
 The original datasets contained duplicate records, missing values, inconsistent date formatting, and transactions that could not be matched to customer records.
 
