@@ -1,0 +1,147 @@
+customer_id,full_name,email,signup_date,state,account_type
+C1096,"Walker, Daniel",daniel.walker45@outlook.com,2019-10-22,New Jersey,CREDIT CARD
+C1125,Hannah Brooks,hannah.brooks32@yahoo.com,unknown,Ohio,SAV
+C1093,"Coleman, Grace",grace.coleman1@outlook.com,unknown,Delaware,Credit Card
+C1080,"Walker, Elena",elena.walker31@gmail.com,"November 05, 2021",Maryland,checking
+C1112,"Torres, Jasmine",JASMINE.TORRES69@OUTLOOK.COM,08/18/2019,OH,checking
+C1071,Natalie Torres,NATALIE.TORRES57@GMAIL.COM,2022-02-23,Pennsylvania,SAV
+C1050,"Reyes, Sofia",sofia.reyes59@gmail.com,"June 02, 2019",DE,savings
+C1117,LUIS POWELL,luis.powell21@yahoo.com,10/01/21,Ohio,CHK
+C1133,Priya Hughes,priya.hughes8@gmail.com,12/07/2020,NY,Checking
+C1128,tyler cooper, tyler.cooper8@yahoo.com ,07/11/2022,de,CHECKING
+C1092,Tyler Bennett,tyler.bennett71@outlook.com,2022-09-11,,CREDIT CARD
+C1025,Luis Coleman,luis.coleman67@yahoo.com,,md,Checking
+C1026,"Cooper, Daniel",daniel.cooper20gmail.com,2023-05-26 17:03:15,MD,CREDIT CARD
+C1051,PRIYA POWELL,priya.powell47@gmail.com,"April 18, 2020",OH,Checking
+C1123,"Ramirez, Elena",,2019-01-12 13:44:36,Ohio,CHECKING
+C1015,Hannah Torres,HANNAH.TORRES61@GMAIL.COM,06/25/2019,DE,Savings 
+C1046,  Victor Walker ,victor.walker1@yahoo.com,2023-03-08 08:51:04,OH,CC
+C1069,jorge reyes,jorge.reyes86@gmail.com,04/30/2021,NJ,checking
+C1078,TYLER NGUYEN,TYLER.NGUYEN11@GMAIL.COM,"May 03, 2021",DE,savings
+C1102,Jorge Ortiz,,12/19/2022,MD,checking
+C1042,AALIYAH NGUYEN,aaliyah.nguyen12@gmail.com,"June 23, 2019",PENNSYLVANIA,savings
+C1121,Priya Patel,priya.patel93@yahoo.com,2020-06-13,New York,Savings
+C1068,ANDRE SANCHEZ,andre.sanchez25@gmail.com,06/03/2022,NY,SAVINGS
+C1060,grace sanchez,grace.sanchez44@gmail.com,19/12/2021,MD,Checking
+C1105,mei patel,mei.patel67@outlook.com,2019-05-11,OH,Credit card
+C1035,"Walker, Ethan",ETHAN.WALKER16@YAHOO.COM,"March 30, 2019",,Savings
+C1066,"Hughes, Kevin",kevin.hughes25@yahoo.com,2024-03-09,,SAVINGS
+C1027,"Rivera, Mei",mei.rivera13@outlook.com,2022-11-19,PA,checking
+C1022,Priya Diaz,priya.diaz84@gmail.com,"November 16, 2019",MD,Credit Card
+C1021,Mei Reyes,mei.reyes56@outlook.com,2019-06-23 05:08:01,OHIO,Savings
+C1079,Jorge Morgan,jorge.morgan86@gmail.com,2023-02-20,New York,Credit card
+C1130,  Sofia Sanchez ,,6/17/23,NEW JERSEY,Credit Card
+C1106,Marcus Reyes,marcus.reyes1@yahoo.com,07/15/2021,OH,Checking
+C1062,"Reyes, Jasmine",jasmine.reyes51@outlook.com,2021-12-05,Delaware,checking
+C1132,Andre Johnson, andre.johnson36@yahoo.com ,2022-09-12,New York,SAV
+C1045,"Nguyen, Jorge",jorge.nguyen18@outlook.com,07/09/2022,PENNSYLVANIA,Savings
+C1017,  Sofia Rivera ,sofia.rivera22@yahoo.com,6/09/22,MD,credit card
+C1030,LUIS PATEL,,2019-11-27 16:25:21,PENNSYLVANIA,savings
+C1032,  Ethan Hughes ,ethan.hughes9@gmail.com,2019-03-23,NJ,Checking 
+C1036,Jorge Brooks,,2020-08-16,NY,Credit Card
+C1019,Hannah Sanchez,hannah.sanchez45@yahoo.com,"April 09, 2020",OH,SAV
+C1057,Omar Rivera,omar.rivera84@yahoo.com,09/03/2019,New Jersey,Credit Card
+C1010,"Nguyen, Andre", andre.nguyen52@outlook.com ,01/04/2021,NJ,CREDIT CARD
+C1095,Grace Bennett,grace.bennett18@gmail.com,2020-08-12,MD,CHECKING
+C1004,Daniel Brooks,daniel.brooks82@gmail.com,13/10/2021,MD,credit card
+C1134,Ethan Brooks,ethan.brooks30@gmail.com,"June 10, 2023",NY,Checking
+C1029,NATALIE COLEMAN,natalie.coleman86@gmail.com,2019-11-13,NJ,Checking
+C1114,Omar Ramirez,omar.ramirez48@yahoo.com,3/05/19,MD,Savings
+C1037,Luis Johnson,LUIS.JOHNSON5@GMAIL.COM,2020-05-18,MD,Checking
+C1047,Hannah Walker,hannah.walker27@gmail.com,04/20/2023,DE,Savings 
+C1101,"Ramirez, Luis",luis.ramirez30@outlook.com,2021-12-07,pa,CC
+C1065,  Aaliyah Johnson ,aaliyah.johnson59@yahoo.com,01/25/2022,OH,checking
+C1031,kevin sanchez,kevin.sanchez12@outlook.com,2021-02-26,NY,Savings
+C1076,Andre Patel,andre.patel24@gmail.com,05/28/2022,Ohio,Credit Card
+C1115,  Aaliyah Ortiz ,aaliyah.ortiz13@yahoo.com,08/23/2023,PA,Checking
+C1070,marcus kim,marcus.kim92@yahoo.com,2019-03-07,PA,SAVINGS
+C1116,omar kim,omar.kim68@gmail.com,"June 03, 2024",pa,savings
+C1110,Jorge Diaz,jorge.diaz28@yahoo.com,08/18/2019,PA,CHK
+C1008,Sofia Ramirez,sofia.ramirez40@outlook.com,22/12/2023,OH,Savings
+C1043,Grace Patel,grace.patel92@outlook.com,3/31/19,NY,savings
+C1044,Grace Ortiz,grace.ortiz65@gmail.com,4/11/22,MD,Checking
+C1063,"Coleman, Tyler",tyler.coleman6@gmail.com,2020-09-14,NJ,Checking
+C1001,brianna patel,brianna.patel7@gmail.com,03/15/2020,PENNSYLVANIA,Checking
+C1055,KEVIN POWELL,kevin.powell99@yahoo.com,01/13/2023,DE,credit card
+C1126,TYLER RAMIREZ,tyler.ramirez28@gmail.com,"July 24, 2021",NJ,Checking
+C1053,brianna johnson,brianna.johnson44yahoo.com,2019-05-14,NJ,Credit card
+C1119,Hannah Ortiz,hannah.ortiz65@gmail.com,"December 14, 2020",Ohio,SAV
+C1099,JASMINE BROOKS,jasmine.brooks69@outlook.com,03/28/2022,OH,Savings 
+C1120,Elena Morgan,elena.morgan22@yahoo.com,11/05/2021,NY,checking
+C1014,"Cooper, Brianna",brianna.cooper1outlook.com,2022-06-11,PA,credit card
+C1053,brianna johnson,brianna.johnson44yahoo.com,2019-05-14,NJ,Credit card
+C1061,Natalie Bennett,natalie.bennett56@yahoo.com,1/09/24,pa,Savings
+C1020,  Brianna Sanchez ,brianna.sanchez79@gmail.com,2024-02-07,Ohio,CC
+C1050,"Reyes, Sofia",sofia.reyes59@gmail.com,"June 02, 2019",DE,savings
+C1138,elena torres,,2022-10-29 10:51:06,NY,CHK
+C1009,aaliyah coleman,aaliyah.coleman79@gmail.com,2021-03-25,NJ,Checking
+C1058,DANIEL NGUYEN,,05/14/2020,NY,savings
+C1052,"Bennett, Andre",andre.bennett1@yahoo.com,10/09/2020,Delaware,CHECKING
+C1074,sofia cooper,sofia.cooper35@yahoo.com,2020-10-10,md,Credit Card
+C1094,priya torres,priya.torres12@yahoo.com,2023-05-12 02:03:48,oh,Credit card
+C1131,Elena Hughes,elena.hughes84@gmail.com,2022-11-08,DELAWARE,CHECKING
+C1118,Victor Brooks,victor.brooks46@gmail.com,01/31/2021,DE,CC
+C1067,Andre Ramirez,andre.ramirez92@yahoo.com,10/30/2021,Delaware,Savings
+C1124,Jasmine Ortiz,jasmine.ortiz86@outlook.com,08/06/2022,OH,Checking
+C1064,Hannah Powell,HANNAH.POWELL90@GMAIL.COM,4/02/20,NY,Credit card
+C1007,Sofia Morgan,sofia.morgan41@yahoo.com,2024-04-18,MD,SAV
+C1075,Omar Johnson,omar.johnson77@outlook.com,2024-05-07 08:58:27,pa,CHECKING
+C1083,ETHAN TORRES,ethan.torres48yahoo.com,2022-08-27,NJ,Checking
+C1073,"Reyes, Luis",luis.reyes53@gmail.com,06/10/2020,de,CHK
+C1056,Kevin Coleman,kevin.coleman18@outlook.com,2021-04-29,de,CREDIT CARD
+C1003,jasmine diaz,jasmine.diaz29@gmail.com,2022-03-15,New Jersey,Checking
+C1041,"Walker, Brianna",brianna.walker40@gmail.com,"May 23, 2020",Pennsylvania,checking
+C1108,Hannah Hughes,hannah.hughes28@gmail.com,2020-02-20,Pennsylvania,Checking
+C1107,TYLER RIVERA,tyler.rivera5@gmail.com,28/06/2020,OH,Savings
+C1109,Natalie Foster,natalie.foster49@outlook.com,10/23/2023,OH,CC
+C1039,"Patel, Marcus",marcus.patel81@outlook.com,,Delaware,Checking
+C1034,BRIANNA NGUYEN,brianna.nguyen89@gmail.com,2023-06-30,Pennsylvania,Checking
+C1091,grace kim, grace.kim16@gmail.com ,unknown,OH,CHK
+C1072,mei bennett,MEI.BENNETT40@YAHOO.COM,07/03/2021,OH,Savings
+C1040,OMAR COOPER,omar.cooper38@gmail.com,2024-06-14,New Jersey,Checking 
+C1018,Mei Walker,,2023-06-07,DELAWARE,Checking
+C1048,Mei Nguyen,mei.nguyen43@yahoo.com,"May 05, 2019",Ohio,CREDIT CARD
+C1135,Ethan Cooper,ethan.cooper12@outlook.com,12/23/2021,MD,savings
+C1084,aaliyah foster,aaliyah.foster48@gmail.com,2019-05-10,Pennsylvania,Savings
+C1111,Daniel Torres,DANIEL.TORRES90@GMAIL.COM,02/17/2023,NJ,CC
+C1100,GRACE RIVERA,grace.rivera75@outlook.com,15/06/2022,oh,Checking 
+C1054,jasmine nguyen,jasmine.nguyen55@yahoo.com,2020-05-25,ny,credit card
+C1005,  Kevin Foster ,kevin.foster59@yahoo.com,"December 11, 2021",NJ,Checking 
+C1024,MEI JOHNSON, mei.johnson38@outlook.com ,2019-05-05,Maryland,credit card
+C1085,"Morgan, Natalie",natalie.morgan69@gmail.com,2022-09-29,DE,Savings
+C1139,Marcus Sanchez,marcus.sanchez81@gmail.com,2022-02-08 06:18:27,OHIO,Savings
+C1085,"Morgan, Natalie",natalie.morgan69@gmail.com,2022-09-29,DE,Savings
+C1098,Natalie Kim,natalie.kim34@gmail.com,"July 16, 2021",PA,Savings
+C1127,"Powell, Andre",andre.powell48@outlook.com,2020-01-12,OH,Checking
+C1059,"Morgan, Brianna", brianna.morgan31@yahoo.com ,2021-04-25,Maryland,Checking
+C1082,Jasmine Sanchez,jasmine.sanchez48@outlook.com,08/05/2019,DE,Credit Card
+C1086,Marcus Hughes,marcus.hughes46@yahoo.com,2020-02-22,NY,Savings
+C1006,BRIANNA COLEMAN,brianna.coleman10@gmail.com,05/13/2021,NJ,Checking
+C1136,Elena Brooks,,01/29/2024,NJ,CREDIT CARD
+C1031,kevin sanchez,kevin.sanchez12@outlook.com,2021-02-26,NY,Savings
+C1088,Natalie Nguyen,natalie.nguyen48@outlook.com,03/10/2024,New Jersey,Checking
+C1113,  Sofia Hughes ,sofia.hughes17@gmail.com,2019-02-12,Ohio,Savings 
+C1137,  Andre Walker ,andre.walker70@outlook.com,2022-09-24,Pennsylvania,SAVINGS
+C1089,Natalie Reyes,natalie.reyes26yahoo.com,2019-06-26,PA,SAVINGS
+C1090,Ethan Kim,ethan.kim29@outlook.com,2019-03-27,NJ,Checking
+C1087,kevin kim,kevin.kim12@yahoo.com,02/03/2022,NY,CHK
+C1081,"Brooks, Marcus",marcus.brooks30@yahoo.com,2022-05-14,PA,checking
+C1038,Tyler Ortiz,tyler.ortiz70@yahoo.com,2021-04-08,NY,checking
+C1097,Jasmine Rivera,jasmine.rivera31@yahoo.com,23/07/2020,New Jersey,Checking
+C1129,LUIS DIAZ,luis.diaz29@yahoo.com,2019-09-22,MD,savings
+C1016,  Brianna Rivera ,brianna.rivera89@gmail.com,"April 02, 2023",NJ,CC
+C1122,Tyler Kim,tyler.kim14@gmail.com,02/06/2020,NJ,Credit card
+C1049,Tyler Sanchez,tyler.sanchez38@outlook.com,01/29/2022,DE,Checking
+C1012,Victor Torres,victor.torres41@gmail.com,"April 21, 2019",MD,Credit Card
+C1002,"Ortiz, Kevin",kevin.ortiz12@outlook.com,2022-04-08,md,Checking
+C1028,Grace Morgan,grace.morgan65@gmail.com,2019-10-08,NY,Checking
+C1082,Jasmine Sanchez,jasmine.sanchez48@outlook.com,08/05/2019,DE,Credit Card
+C1127,"Powell, Andre",andre.powell48@outlook.com,2020-01-12,OH,Checking
+C1013,victor bennett,victor.bennett51@gmail.com,06/21/2021,de,Checking
+C1140,BRIANNA ORTIZ,brianna.ortiz7@yahoo.com,"November 23, 2023",,Credit Card
+C1104,GRACE REYES,GRACE.REYES1@GMAIL.COM,26/01/2019,,CHK
+C1103,priya rivera,PRIYA.RIVERA34@GMAIL.COM,27/06/2021,MD,Credit Card
+C1011,"Walker, Natalie",,01/09/2019,nj,Credit card
+C1023,"Johnson, Priya",PRIYA.JOHNSON93@OUTLOOK.COM,2/03/20,OH,Savings
+C1033,Daniel Rivera,daniel.rivera55@outlook.com,"March 14, 2022",,Credit Card
+C1077,"Cooper, Luis",luis.cooper26@yahoo.com,2019-11-26,,Credit card

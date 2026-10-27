@@ -1,0 +1,141 @@
+customer_id,full_name,email,signup_date,state,account_type
+C1001,"Brianna Patel",brianna.patel7@gmail.com,2020-03-15,PA,CHECKING
+C1002,"Kevin Ortiz",kevin.ortiz12@outlook.com,2022-04-08,MD,CHECKING
+C1003,"Jasmine Diaz",jasmine.diaz29@gmail.com,2022-03-15,NJ,CHECKING
+C1004,"Daniel Brooks",daniel.brooks82@gmail.com,2021-10-13,MD,"CREDIT CARD"
+C1005,"Kevin Foster",kevin.foster59@yahoo.com,2021-12-11,NJ,CHECKING
+C1006,"Brianna Coleman",brianna.coleman10@gmail.com,2021-05-13,NJ,CHECKING
+C1007,"Sofia Morgan",sofia.morgan41@yahoo.com,2024-04-18,MD,SAVINGS
+C1008,"Sofia Ramirez",sofia.ramirez40@outlook.com,2023-12-22,OH,SAVINGS
+C1009,"Aaliyah Coleman",aaliyah.coleman79@gmail.com,2021-03-25,NJ,CHECKING
+C1010,"Andre Nguyen",andre.nguyen52@outlook.com,2021-01-04,NJ,"CREDIT CARD"
+C1011,"Natalie Walker",NULL,2019-01-09,NJ,"CREDIT CARD"
+C1012,"Victor Torres",victor.torres41@gmail.com,2019-04-21,MD,"CREDIT CARD"
+C1013,"Victor Bennett",victor.bennett51@gmail.com,2021-06-21,DE,CHECKING
+C1014,"Brianna Cooper",brianna.cooper1@outlook.com,2022-06-11,PA,"CREDIT CARD"
+C1015,"Hannah Torres",hannah.torres61@gmail.com,2019-06-25,DE,SAVINGS
+C1016,"Brianna Rivera",brianna.rivera89@gmail.com,2023-04-02,NJ,"CREDIT CARD"
+C1017,"Sofia Rivera",sofia.rivera22@yahoo.com,2022-06-09,MD,"CREDIT CARD"
+C1018,"Mei Walker",NULL,2023-06-07,DE,CHECKING
+C1019,"Hannah Sanchez",hannah.sanchez45@yahoo.com,2020-04-09,OH,SAVINGS
+C1020,"Brianna Sanchez",brianna.sanchez79@gmail.com,2024-02-07,OH,"CREDIT CARD"
+C1021,"Mei Reyes",mei.reyes56@outlook.com,2019-06-23,OH,SAVINGS
+C1022,"Priya Diaz",priya.diaz84@gmail.com,2019-11-16,MD,"CREDIT CARD"
+C1023,"Priya Johnson",priya.johnson93@outlook.com,2020-02-03,OH,SAVINGS
+C1024,"Mei Johnson",mei.johnson38@outlook.com,2019-05-05,MD,"CREDIT CARD"
+C1025,"Luis Coleman",luis.coleman67@yahoo.com,NULL,MD,CHECKING
+C1026,"Daniel Cooper",daniel.cooper20@gmail.com,2023-05-26,MD,"CREDIT CARD"
+C1027,"Mei Rivera",mei.rivera13@outlook.com,2022-11-19,PA,CHECKING
+C1028,"Grace Morgan",grace.morgan65@gmail.com,2019-10-08,NY,CHECKING
+C1029,"Natalie Coleman",natalie.coleman86@gmail.com,2019-11-13,NJ,CHECKING
+C1030,"Luis Patel",NULL,2019-11-27,PA,SAVINGS
+C1031,"Kevin Sanchez",kevin.sanchez12@outlook.com,2021-02-26,NY,SAVINGS
+C1032,"Ethan Hughes",ethan.hughes9@gmail.com,2019-03-23,NJ,CHECKING
+C1033,"Daniel Rivera",daniel.rivera55@outlook.com,2022-03-14,NULL,"CREDIT CARD"
+C1034,"Brianna Nguyen",brianna.nguyen89@gmail.com,2023-06-30,PA,CHECKING
+C1035,"Ethan Walker",ethan.walker16@yahoo.com,2019-03-30,NULL,SAVINGS
+C1036,"Jorge Brooks",NULL,2020-08-16,NY,"CREDIT CARD"
+C1037,"Luis Johnson",luis.johnson5@gmail.com,2020-05-18,MD,CHECKING
+C1038,"Tyler Ortiz",tyler.ortiz70@yahoo.com,2021-04-08,NY,CHECKING
+C1039,"Marcus Patel",marcus.patel81@outlook.com,NULL,DE,CHECKING
+C1040,"Omar Cooper",omar.cooper38@gmail.com,2024-06-14,NJ,CHECKING
+C1041,"Brianna Walker",brianna.walker40@gmail.com,2020-05-23,PA,CHECKING
+C1042,"Aaliyah Nguyen",aaliyah.nguyen12@gmail.com,2019-06-23,PA,SAVINGS
+C1043,"Grace Patel",grace.patel92@outlook.com,2019-03-31,NY,SAVINGS
+C1044,"Grace Ortiz",grace.ortiz65@gmail.com,2022-04-11,MD,CHECKING
+C1045,"Jorge Nguyen",jorge.nguyen18@outlook.com,2022-07-09,PA,SAVINGS
+C1046,"Victor Walker",victor.walker1@yahoo.com,2023-03-08,OH,"CREDIT CARD"
+C1047,"Hannah Walker",hannah.walker27@gmail.com,2023-04-20,DE,SAVINGS
+C1048,"Mei Nguyen",mei.nguyen43@yahoo.com,2019-05-05,OH,"CREDIT CARD"
+C1049,"Tyler Sanchez",tyler.sanchez38@outlook.com,2022-01-29,DE,CHECKING
+C1050,"Sofia Reyes",sofia.reyes59@gmail.com,2019-06-02,DE,SAVINGS
+C1051,"Priya Powell",priya.powell47@gmail.com,2020-04-18,OH,CHECKING
+C1052,"Andre Bennett",andre.bennett1@yahoo.com,2020-10-09,DE,CHECKING
+C1053,"Brianna Johnson",brianna.johnson44@yahoo.com,2019-05-14,NJ,"CREDIT CARD"
+C1054,"Jasmine Nguyen",jasmine.nguyen55@yahoo.com,2020-05-25,NY,"CREDIT CARD"
+C1055,"Kevin Powell",kevin.powell99@yahoo.com,2023-01-13,DE,"CREDIT CARD"
+C1056,"Kevin Coleman",kevin.coleman18@outlook.com,2021-04-29,DE,"CREDIT CARD"
+C1057,"Omar Rivera",omar.rivera84@yahoo.com,2019-09-03,NJ,"CREDIT CARD"
+C1058,"Daniel Nguyen",NULL,2020-05-14,NY,SAVINGS
+C1059,"Brianna Morgan",brianna.morgan31@yahoo.com,2021-04-25,MD,CHECKING
+C1060,"Grace Sanchez",grace.sanchez44@gmail.com,2021-12-19,MD,CHECKING
+C1061,"Natalie Bennett",natalie.bennett56@yahoo.com,2024-01-09,PA,SAVINGS
+C1062,"Jasmine Reyes",jasmine.reyes51@outlook.com,2021-12-05,DE,CHECKING
+C1063,"Tyler Coleman",tyler.coleman6@gmail.com,2020-09-14,NJ,CHECKING
+C1064,"Hannah Powell",hannah.powell90@gmail.com,2020-04-02,NY,"CREDIT CARD"
+C1065,"Aaliyah Johnson",aaliyah.johnson59@yahoo.com,2022-01-25,OH,CHECKING
+C1066,"Kevin Hughes",kevin.hughes25@yahoo.com,2024-03-09,NULL,SAVINGS
+C1067,"Andre Ramirez",andre.ramirez92@yahoo.com,2021-10-30,DE,SAVINGS
+C1068,"Andre Sanchez",andre.sanchez25@gmail.com,2022-06-03,NY,SAVINGS
+C1069,"Jorge Reyes",jorge.reyes86@gmail.com,2021-04-30,NJ,CHECKING
+C1070,"Marcus Kim",marcus.kim92@yahoo.com,2019-03-07,PA,SAVINGS
+C1071,"Natalie Torres",natalie.torres57@gmail.com,2022-02-23,PA,SAVINGS
+C1072,"Mei Bennett",mei.bennett40@yahoo.com,2021-07-03,OH,SAVINGS
+C1073,"Luis Reyes",luis.reyes53@gmail.com,2020-06-10,DE,CHECKING
+C1074,"Sofia Cooper",sofia.cooper35@yahoo.com,2020-10-10,MD,"CREDIT CARD"
+C1075,"Omar Johnson",omar.johnson77@outlook.com,2024-05-07,PA,CHECKING
+C1076,"Andre Patel",andre.patel24@gmail.com,2022-05-28,OH,"CREDIT CARD"
+C1077,"Luis Cooper",luis.cooper26@yahoo.com,2019-11-26,NULL,"CREDIT CARD"
+C1078,"Tyler Nguyen",tyler.nguyen11@gmail.com,2021-05-03,DE,SAVINGS
+C1079,"Jorge Morgan",jorge.morgan86@gmail.com,2023-02-20,NY,"CREDIT CARD"
+C1080,"Elena Walker",elena.walker31@gmail.com,2021-11-05,MD,CHECKING
+C1081,"Marcus Brooks",marcus.brooks30@yahoo.com,2022-05-14,PA,CHECKING
+C1082,"Jasmine Sanchez",jasmine.sanchez48@outlook.com,2019-08-05,DE,"CREDIT CARD"
+C1083,"Ethan Torres",ethan.torres48@yahoo.com,2022-08-27,NJ,CHECKING
+C1084,"Aaliyah Foster",aaliyah.foster48@gmail.com,2019-05-10,PA,SAVINGS
+C1085,"Natalie Morgan",natalie.morgan69@gmail.com,2022-09-29,DE,SAVINGS
+C1086,"Marcus Hughes",marcus.hughes46@yahoo.com,2020-02-22,NY,SAVINGS
+C1087,"Kevin Kim",kevin.kim12@yahoo.com,2022-02-03,NY,CHECKING
+C1088,"Natalie Nguyen",natalie.nguyen48@outlook.com,2024-03-10,NJ,CHECKING
+C1089,"Natalie Reyes",natalie.reyes26@yahoo.com,2019-06-26,PA,SAVINGS
+C1090,"Ethan Kim",ethan.kim29@outlook.com,2019-03-27,NJ,CHECKING
+C1091,"Grace Kim",grace.kim16@gmail.com,NULL,OH,CHECKING
+C1092,"Tyler Bennett",tyler.bennett71@outlook.com,2022-09-11,NULL,"CREDIT CARD"
+C1093,"Grace Coleman",grace.coleman1@outlook.com,NULL,DE,"CREDIT CARD"
+C1094,"Priya Torres",priya.torres12@yahoo.com,2023-05-12,OH,"CREDIT CARD"
+C1095,"Grace Bennett",grace.bennett18@gmail.com,2020-08-12,MD,CHECKING
+C1096,"Daniel Walker",daniel.walker45@outlook.com,2019-10-22,NJ,"CREDIT CARD"
+C1097,"Jasmine Rivera",jasmine.rivera31@yahoo.com,2020-07-23,NJ,CHECKING
+C1098,"Natalie Kim",natalie.kim34@gmail.com,2021-07-16,PA,SAVINGS
+C1099,"Jasmine Brooks",jasmine.brooks69@outlook.com,2022-03-28,OH,SAVINGS
+C1100,"Grace Rivera",grace.rivera75@outlook.com,2022-06-15,OH,CHECKING
+C1101,"Luis Ramirez",luis.ramirez30@outlook.com,2021-12-07,PA,"CREDIT CARD"
+C1102,"Jorge Ortiz",NULL,2022-12-19,MD,CHECKING
+C1103,"Priya Rivera",priya.rivera34@gmail.com,2021-06-27,MD,"CREDIT CARD"
+C1104,"Grace Reyes",grace.reyes1@gmail.com,2019-01-26,NULL,CHECKING
+C1105,"Mei Patel",mei.patel67@outlook.com,2019-05-11,OH,"CREDIT CARD"
+C1106,"Marcus Reyes",marcus.reyes1@yahoo.com,2021-07-15,OH,CHECKING
+C1107,"Tyler Rivera",tyler.rivera5@gmail.com,2020-06-28,OH,SAVINGS
+C1108,"Hannah Hughes",hannah.hughes28@gmail.com,2020-02-20,PA,CHECKING
+C1109,"Natalie Foster",natalie.foster49@outlook.com,2023-10-23,OH,"CREDIT CARD"
+C1110,"Jorge Diaz",jorge.diaz28@yahoo.com,2019-08-18,PA,CHECKING
+C1111,"Daniel Torres",daniel.torres90@gmail.com,2023-02-17,NJ,"CREDIT CARD"
+C1112,"Jasmine Torres",jasmine.torres69@outlook.com,2019-08-18,OH,CHECKING
+C1113,"Sofia Hughes",sofia.hughes17@gmail.com,2019-02-12,OH,SAVINGS
+C1114,"Omar Ramirez",omar.ramirez48@yahoo.com,2019-03-05,MD,SAVINGS
+C1115,"Aaliyah Ortiz",aaliyah.ortiz13@yahoo.com,2023-08-23,PA,CHECKING
+C1116,"Omar Kim",omar.kim68@gmail.com,2024-06-03,PA,SAVINGS
+C1117,"Luis Powell",luis.powell21@yahoo.com,2021-10-01,OH,CHECKING
+C1118,"Victor Brooks",victor.brooks46@gmail.com,2021-01-31,DE,"CREDIT CARD"
+C1119,"Hannah Ortiz",hannah.ortiz65@gmail.com,2020-12-14,OH,SAVINGS
+C1120,"Elena Morgan",elena.morgan22@yahoo.com,2021-11-05,NY,CHECKING
+C1121,"Priya Patel",priya.patel93@yahoo.com,2020-06-13,NY,SAVINGS
+C1122,"Tyler Kim",tyler.kim14@gmail.com,2020-02-06,NJ,"CREDIT CARD"
+C1123,"Elena Ramirez",NULL,2019-01-12,OH,CHECKING
+C1124,"Jasmine Ortiz",jasmine.ortiz86@outlook.com,2022-08-06,OH,CHECKING
+C1125,"Hannah Brooks",hannah.brooks32@yahoo.com,NULL,OH,SAVINGS
+C1126,"Tyler Ramirez",tyler.ramirez28@gmail.com,2021-07-24,NJ,CHECKING
+C1127,"Andre Powell",andre.powell48@outlook.com,2020-01-12,OH,CHECKING
+C1128,"Tyler Cooper",tyler.cooper8@yahoo.com,2022-07-11,DE,CHECKING
+C1129,"Luis Diaz",luis.diaz29@yahoo.com,2019-09-22,MD,SAVINGS
+C1130,"Sofia Sanchez",NULL,2023-06-17,NJ,"CREDIT CARD"
+C1131,"Elena Hughes",elena.hughes84@gmail.com,2022-11-08,DE,CHECKING
+C1132,"Andre Johnson",andre.johnson36@yahoo.com,2022-09-12,NY,SAVINGS
+C1133,"Priya Hughes",priya.hughes8@gmail.com,2020-12-07,NY,CHECKING
+C1134,"Ethan Brooks",ethan.brooks30@gmail.com,2023-06-10,NY,CHECKING
+C1135,"Ethan Cooper",ethan.cooper12@outlook.com,2021-12-23,MD,SAVINGS
+C1136,"Elena Brooks",NULL,2024-01-29,NJ,"CREDIT CARD"
+C1137,"Andre Walker",andre.walker70@outlook.com,2022-09-24,PA,SAVINGS
+C1138,"Elena Torres",NULL,2022-10-29,NY,CHECKING
+C1139,"Marcus Sanchez",marcus.sanchez81@gmail.com,2022-02-08,OH,SAVINGS
+C1140,"Brianna Ortiz",brianna.ortiz7@yahoo.com,2023-11-23,NULL,"CREDIT CARD"

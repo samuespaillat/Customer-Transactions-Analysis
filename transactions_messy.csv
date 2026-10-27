@@ -1,0 +1,821 @@
+txn_id,customer_id,txn_date,amount,category,merchant,payment_method,txn_type,status
+T50379,C1007,2025-01-04,$313.48,GROCERIES,Trader Joe's,Cash,Purchase,COMPLETE
+T50422,C1027,17/01/2024,245.95,shopping,Best Buy,Credit Card,Purchase,Completed
+T50102,C1120,2025-03-28,124.14,Retail,walmart ,credit card,Purchase,Completed
+T50001,C1075,2024-11-12,(42.79),Utilities,Comcast,Debit,refund,Completed
+T50766,C1125,04/09/2024,-382.51,TRANSPORT,Shell,,Purchase,Completed
+T50053,C1019,04/16/2025,432.29,Dining,Chipotle,Debit Card,Purchase,Pending
+T50380,C1057,08/09/2024,"1,283.83",Payment,Online Payment,Cash,Payment,Failed
+T50121,C1033,"March 26, 2025",414.45,Transport,Sunoco,Credit Card,Purchase,Completed
+T50377,C1020,unknown,$110.85,Dining, STARBUCKS,credit card,purchase,Complete 
+T50115,C1071,2024-02-26,USD 145.98,Utilities,PECO Energy,ACH,Purchase,Pending
+T50002,C1068,05/30/2024,65.88,Dining,Chipotle,cash,Purchase,Pending
+T50551,C1087,2024-04-02 22:35:54,77.41 USD,Transport,Sunoco,Credit Card,Purchase,completed
+T50731,C1036,09/02/2024,128.52,Groceries,Giant Food,Cash,Purchase,completed
+T50306,C1003,2024-03-02,0.00,Dining,starbucks,CASH,Purchase,Completed
+T50176,C1015,2025-04-19,313.41,Grocery,Giant Food,ACH,Purchase,COMPLETE
+T50597,C1020,2024-12-27,242.19,Dining,STARBUCKS,Debit Card,Purchase,COMPLETE
+T50284,C1108,11/21/2024,$374.39,transport,Lyft,DEBIT,Purchase,Completed
+T50165,C1110,2024-08-15,,DINING,McDonald's,cash,Refund,Completed
+T50054,C1015,2025-04-15,316.76,Groceries,ACME Markets,Cash,Purchase,Completed
+T50605,C1118,06/25/2024,$308.44,Dining,Starbucks,ach,Purchase,Completed
+T50621,C1060,2024-02-10,365.78,shopping,Target Store,Debit Card,Purchase,Completed
+T50502,C1038,2025-03-17,445.30,TRANSPORT,Sunoco,CASH,Purchase,COMPLETE
+T50777,C1043,2025-01-03,150.10,Entertain.,Regal Cinemas,Credit Card,Purchase,Pending
+T50107,C1127,06/23/2024,186.30 USD,Payment,Online Payment,Credit Card,Payment,Completed
+T50240,C1115,2024-03-09 18:26:15,-28.86,GROCERIES,Wegmans,Cash,Refund,Completed
+T50533,C1085,15/06/2024,198.23 USD,Utilities,Verizon,ACH,Purchase,Completed
+T50703,C1040,26/01/2024,N/A,SHOPPING, Walmart,Credit card,Purchase,Completed
+T50038,C1119,2024-12-25,613.21,Payment,Online Payment,Credit Card,Payment,Completed
+T50760,C1125,"May 25, 2025",364.79,Dining,Starbucks,Debit Card,Purchase,Completed
+T50541,C1136,2025-03-03,USD 286.41,DINING,Starbucks #4421,cash,Purchase,completed
+T50778,C1051,05/02/2024,553.74,Payment,Online Payment,CASH,Payment,Completed
+T50259,C2015,2024-08-25,324.31 USD,entertainment,Steam,ACH,Purchase,Completed
+T50589,C1012,2024-07-02,$443.91,Payment,Online Payment,ACH Transfer,Payment,Failed
+T50736,C1007,2025-01-18,358.10,transport,Uber Trip,Cash,Purchase,Pending
+T50157,C1081,2024-12-12,177.69,Utilities,PA American Water,Cash,Purchase,Completed
+T50031,C1134,2024-11-26,-$30.77,Transportation,Sunoco,Debit,Refund,Declined
+T50522,C1008,3/01/24,35.14,Entertainment,Netflix,Debit Card,Purchase,Completed
+T50186,C1036,2024-12-02,238.48,Payment,Online Payment,credit card,Payment,Completed
+T50241,C1126,2024-07-26,274.25,Groceries,Giant Food,credit card,Purchase,Pending
+T50451,C1076,10/14/24,375.08,Transport,Shell,,Purchase,failed
+T50612,C1126,04/04/2024,169.92,Entertainment,Steam,Debit Card,Purchase,FAIL
+T50418,C1130,12/19/24,1348.54,Payment,Online Payment,Cash,Payment,Completed
+T50283,C1090,"October 29, 2024",123.30,Entertainment,Steam,,Purchase,Completed
+T50526,C1045,09/23/2024,,UTILITIES,PECO Energy,cash,Purchase,Failed
+T50008,C1124,11/01/2024,422.90,Dining,McDonald's,CASH,Purchase,Completed
+T50600,C1076,2024-04-23 03:49:49,$248.47,Retail, Best Buy,CC,Purchase,Complete 
+T50593,C1126,08/04/2024,325.71,shopping,Target,ACH Transfer,Purchase,completed
+T50341,C1052,6/28/24,171.15,Utilities,PECO Energy,Credit Card,Purchase,Pending
+T50800,C1063,2025-04-28,N/A,Entertain.,Spotify,credit card,Purchase,Completed
+T50051,C1036,03/28/2024,-102.45,Shopping,amazon,cash,Refund,Pending
+T50674,C1064,2024-12-18,167.24,Transportation,Uber Trip,DEBIT,Purchase,Completed
+T50772,C1013,07/19/2024,152.08,Payment,Online Payment,ach,payment,completed
+T50780,C1067,11/04/2024,$174.62,UTILITIES,Comcast,Debit Card,Purchase,failed
+T50034,C1099,01/31/2025,1378.19,Payment,Online Payment,,Payment,Completed
+T50581,C1062,2024-06-08,1229.32,Payment,Online Payment,ACH,Payment,Completed
+T50671,C1020,"May 23, 2025",$83.12,Entertainment,Spotify,CASH,Purchase,COMPLETE
+T50308,C1033,2024-12-13,,Utilities,Verizon,Debit,Purchase,completed
+T50538,C1010,05/06/2025,218.22,Retail, Amazon,ACH,Purchase,Completed
+T50716,C1095,2025-01-05 23:46:47,200.70,Entertainment,Spotify,Debit Card,Purchase,Completed
+T50620,C1042,unknown,$611.49,Payment,Online Payment,Debit Card,Payment,Completed
+T50711,C1129,2024-09-25,492.14,Payment, Online Payment,CASH,Payment,Complete 
+T50290,C1002,"February 05, 2024",330.13,Dining,MCDONALDS,,purchase,Pending
+T50353,C1062,"May 17, 2024",USD 397.31,Groceries,Wegmans,,Purchase,Completed
+T50146,C1139,05/21/2025,99999.99,dining,Starbucks,ach,Purchase,Failed
+T50641,C1075,18/01/2025,-248.48,Transport,Lyft,ACH,Refund,COMPLETE
+T50205,C1096,07/30/2024,18.67,shopping,walmart ,Debit Card,Purchase,Complete 
+T50642,C1091,2024-06-30,-211.00,Groceries,Giant Food,ach,Purchase,PEND
+T50390,C1086,"April 15, 2025",248.33,Transportation,Shell,Debit Card,Purchase,Failed
+T50019,C1010,03/22/2025,N/A,Groceries,ACME Markets,ACH,Purchase,Completed
+T50305,C1123,2024-08-28 18:37:10,177.09,Grocery,Giant Food,ACH,Purchase,Failed
+T50201,C1076,2024-08-06,-218.71,Entertainment,Netflix,CASH,Refund,Completed
+T50301,C1106,2024-07-09,275.39,transport,Sunoco,debit card,Purchase,Complete 
+T50330,C1009,12/26/2024,1385.74,Payment,Online Payment,CASH,Payment,Completed
+T50667,C1005,2024-11-13,41.85,Transportation,Sunoco,Cash,Purchase,PEND
+T50366,C1140,2024-03-20 01:50:05,326.98,Grocery,Giant Food,Debit Card,Purchase,Failed
+T50413,C1108,3/22/24,$381.98,Shopping,Target,ACH,Purchase,Pending
+T50468,C1121,2024-03-26,317.30,Transport,Lyft,ACH,Purchase,Pending
+T50693,C1002,4/04/24,26.43,Dining,Panera Bread,Credit card,Purchase,Completed
+T50058,C1020,2025-01-04,USD 152.43,UTILITIES,Verizon,Cash,purchase,Completed
+T50180,C1071,02/28/2025,308.72,Payment,Online Payment,,Payment,Failed
+T50584,C1004,unknown,17.81,transport,Shell,debit card,Purchase,Complete 
+T50480,C1023,2024-09-04 04:47:24,41.75,Groceries,Giant Food,CC,Purchase,Completed
+T50495,C1055,"April 08, 2025",99999.99,Shopping,Target Store,Cash,Purchase,pending
+T50683,C1086,05/13/2025,218.11,utilities,Comcast,Credit card,Purchase,Failed
+T50362,C1019,2025-04-22 23:40:53,783.41,Payment,Online Payment,,Payment,Completed
+T50639,C1130,21/04/2024,147.87,TRANSPORT, UBER,ACH Transfer,Purchase,COMPLETE
+T50223,C1107,2024-10-08,135.55,Utilities,PA American Water,cash,Purchase,Pending
+T50764,C1010,2024-03-30 18:34:42,1354.54,Payment,Online Payment,ach,Payment,pending
+T50508,C1039,2024-05-23,$156.64,Restaurants, Starbucks,ACH Transfer,Purchase,COMPLETE
+T50718,C1010,2025-05-14,179.85,shopping,Walmart,ACH Transfer,Purchase,Completed
+T50105,C1031,04/14/2025,401.33,transport, Shell,Credit Card,Purchase,Complete 
+T50076,C1023,"March 29, 2025",252.66,Grocery,Giant Food,Credit Card,Purchase,Pending
+T50018,C1072,"April 18, 2025",USD 418.41,Payment,Online Payment,,Payment,Pending
+T50336,C1120,14/03/2024,USD 174.04,Transport,Uber,ach,Purchase,Failed
+T50646,C1073,"September 25, 2024",427.03,Entertainment,Regal Cinemas,CASH,Purchase,Complete 
+T50324,C1131,2/13/25,-$98.97,UTILITIES,PA American Water,Credit Card,Refund,Completed
+T50358,C1131,unknown,127.12,Entertainment,NETFLIX,Debit Card,Purchase,Completed
+T50104,C1065,01/19/2025,-431.16,Groceries,ACME Markets,Credit Card,Purchase,Completed
+T50733,C1001,06/02/2024,653.29,Payment,Online Payment,ACH,Payment,Completed
+T50653,C1014,2024-05-04 12:19:50,41.53,Dining,STARBUCKS,cash,Purchase,failed
+T50134,C1091,01/10/2025,USD 355.23,Entertainment,Spotify,Debit Card,Purchase,Pending
+T50721,C1123,2025-03-01 10:33:03,242.66,Transport,Shell,ach,Purchase,Complete 
+T50066,C1093,"September 21, 2024",99.55,Utilities,Verizon,Credit Card,Purchase,Failed
+T50548,C1067,15/05/2025,427.38,Dining,Starbucks,,Purchase,Failed
+T50454,C1028,05/06/2024,399.70,dining,McDonald's,Debit Card,Purchase,completed
+T50747,C1116,08/17/2024,68.04,Dining,Chipotle,Debit Card,Purchase,Completed
+T50515,C1124,2024-04-03,291.65,Entertainment, Steam,ACH,Purchase,Completed
+T50632,C1047,29/09/2024,980.78,Payment,Online Payment,ACH,Payment,Completed
+T50321,C1073,2024-05-20,287.54,Shopping,Amazon,Debit Card,Purchase,Failed
+T50437,C1004,2024-03-28,138.25,Utilities,PA American Water,Debit Card,Purchase,Completed
+T50770,C1111,2025-03-07,USD 202.30,UTILITIES,PECO Energy,Debit Card,Purchase,Complete 
+T50360,C1131,2024-06-23 18:59:52,890.98,Payment,Online Payment,credit card,Payment,Completed
+T50385,C1029,"November 02, 2024",755.56,Payment,Online Payment,CASH,Payment,PEND
+T50533,C1085,15/06/2024,198.23 USD,Utilities,Verizon,ACH,Purchase,Completed
+T50604,C1030,03/05/2024,175.07,Entertainment,Steam,ACH,Purchase,Complete 
+T50067,C1134,2025-01-06 08:38:23,$252.49,Shopping,target,Credit Card,Purchase,Complete 
+T50015,C1094,,,ENTERTAINMENT,Regal Cinemas,Debit Card,Purchase,Completed
+T50194,C1028,2024-06-09 06:32:25,225.50,Transport,Lyft,ACH,Purchase,Completed
+T50250,C1002,23/02/2025,113.34,ENTERTAINMENT,Steam,ACH Transfer,Purchase,Pending
+T50471,C1049,"August 17, 2024",235.86,Dining,McDonald's,Debit Card,Purchase,FAIL
+T50193,C1129,03/31/2024,119.13,GROCERIES,Wegmans,Credit Card,Purchase,Completed
+T50488,C1100,05/06/2024,226.91,Transport,Sunoco,ACH,Purchase,completed
+T50769,C1061,08/10/2024,-366.25,Groceries,Trader Joe's,Cash,Purchase,Completed
+T50319,C1125,"September 18, 2024",1486.79,Payment,Online Payment,Credit Card,Payment,Pending
+T50787,C1092,2024-10-21,122.55,Groceries,Trader Joe's,credit card,Purchase,Failed
+T50274,C1133,04/02/2024,169.03,transport,Lyft,Cash,purchase,Completed
+T50047,C1044,2024-12-30,149.02,Entertainment,Regal Cinemas,ACH,Purchase,Complete 
+T50395,C1051,2024-06-30,220.31,Shopping,AMAZON,Cash,Purchase,Completed
+T50704,C1124,"June 06, 2024",$103.68,Groceries,Wegmans,debit card,purchase,Failed
+T50532,C1109,12/23/2024,421.85,Shopping,Best Buy,credit card,Purchase,Completed
+T50083,C1007,03/07/2024,"1,492.90",Payment,Online Payment,cash,Payment,Completed
+T50401,C1074,02/26/2025,130.54,Bills,PA American Water,credit card,Purchase,Pending
+T50291,C1123,unknown,15.30,Transportation,Shell,ACH Transfer,Purchase,Pending
+T50151,C1040,03/14/2024,N/A,TRANSPORT,Sunoco,Debit,Purchase,Pending
+T50191,C1137,2025-01-13,,dining,MCDONALDS,Credit card,Purchase,Completed
+T50492,C1030,10/19/24,926.74,Payment,Online Payment,Credit Card,Payment,Failed
+T50045,C1115,14/03/2024,257.43 USD,Dining,McDonalds,Credit Card,Purchase,Failed
+T50750,C1093,unknown,26.10,entertainment,Steam,CASH,Purchase,Completed
+T50149,C2008,2024-03-25,$430.91,Payment,Online Payment,DEBIT,Payment,Completed
+T50382,C1103,2024-03-16,8.92,Groceries,ACME Markets,Credit Card,Purchase,Failed
+T50073,C1035,2025-05-27,244.58,Groceries,Wegmans,Cash,Purchase,Completed
+T50574,C1092,"January 16, 2024",238.60,Entertainment,Spotify,Credit Card,Purchase,Pending
+T50774,C1105,2025-04-18,168.91,Utilities,PECO Energy,Cash,Purchase,Declined
+T50334,C1057,2024-10-30 09:06:05,244.01,Shopping,Best Buy,Credit Card,Purchase,Completed
+T50457,C1096,09/08/2024,199.77,DINING,Panera Bread,DEBIT,Purchase,Completed
+T50585,C1074,04/03/2024,148.56,Shopping,AMAZON,Debit Card,Purchase,Completed
+T50470,C1101,2025-03-05 07:32:01,126.50,Utilities,Comcast,ach,Purchase,Failed
+T50536,C1001,2025-02-21,180.18,Dining,Panera Bread,Credit Card,Purchase,Failed
+T50598,C1070,05/13/2025,$783.67,Payment,Online Payment,Cash,Payment,COMPLETE
+T50445,C2014,2024-12-18 15:17:04,4.74,Groceries,Wegmans,ACH,Purchase,Pending
+T50028,C1108,1/06/25,$336.67,Transport,Shell,ACH,Purchase,Completed
+T50499,C1003,04/22/2024,1364.72 USD,Payment,Online Payment,Credit card,Payment,Pending
+T50474,C1096,2025-02-04,USD 205.17,Utilities,PECO Energy,ACH,Purchase,Pending
+T50375,C1037,"February 04, 2025",176.95,Utilities,PA American Water,Debit Card,Purchase,COMPLETE
+T50158,C1099,2024-05-12,USD 178.76,Dining,McDonald's,,Purchase,Failed
+T50352,C1062,04/10/2025,1250.72,Payment,Online Payment,ACH,Payment,Failed
+T50649,C1121,07/14/2024,60.87,Transport, Shell,Debit Card,Purchase,Pending
+T50447,C1114,"June 30, 2024",329.35,Transport,Shell,ACH,Purchase,Pending
+T50463,C1112,"March 28, 2025",240.50,Dining, MCDONALDS,Cash,Purchase,Pending
+T50065,C1127,unknown,N/A,Payment, Online Payment,ach,Payment,Completed
+T50167,C1055,09/22/2024,-192.46,entertainment,Steam,cash,Refund,Completed
+T50338,C1006,unknown,$232.96,Entertainment,Regal Cinemas,Credit Card,Purchase,Completed
+T50500,C1078,"November 16, 2024",$57.09,Transport,Lyft,ach,Purchase,Completed
+T50185,C1099,2024-03-02,411.45,Transportation,Lyft,Cash,Purchase,Complete 
+T50408,C1080,01/03/2025,"$1,404.78",Payment,Online Payment,Credit Card,Payment,Pending
+T50668,C1098,2024-07-04,57.45,Utilities,Verizon,Debit,Purchase,Pending
+T50630,C1062,"September 03, 2024",$326.94,Transport,Shell,ACH Transfer,Purchase,Completed
+T50631,C1080,2024-11-02,215.00,transport,Sunoco,Credit Card,Purchase,Failed
+T50316,C2016,2024-06-24,$221.78,DINING,McDonalds,Cash,Purchase,failed
+T50439,C1114,03/06/2024,523.57,Payment,Online Payment,Debit Card,payment,Completed
+T50315,C1060,02/26/2025,35.22,Transport,Lyft,Cash,Purchase,Pending
+T50222,C1106,"May 17, 2025",338.11,Dining,Chipotle,DEBIT,Purchase,Pending
+T50591,C1130,2025-05-01,245.44,Groceries,Wegmans,Credit Card,Purchase,completed
+T50728,C1010,"May 20, 2025",USD 102.16,transport,Sunoco,Debit Card,Purchase,Complete 
+T50289,C1064,2024-08-31 18:25:30,363.60,dining, Panera Bread,debit card,Purchase,Failed
+T50258,C1120,2025-02-06,62.98,Transportation,Shell,ACH,Purchase,Completed
+T50546,C1114,01/22/2025,235.52,Transport,Sunoco,DEBIT,Purchase,Completed
+T50611,C1006,13/03/2025,392.66,Groceries,Trader Joe's,Debit Card,Purchase,pending
+T50126,C1095,"July 15, 2024",274.07,Shopping, WALMART,Debit Card,Purchase,Pending
+T50519,C1133,03/29/2025,72.43,Utilities,PECO Energy,CASH,Purchase,COMPLETE
+T50303,C1092,unknown,406.48,Restaurants,McDonald's,,Purchase,Pending
+T50357,C1029,2024-07-04,138.74 USD,Utilities,PECO Energy,debit card,Purchase,COMPLETE
+T50094,C1091,"January 06, 2024",$299.25,Entertainment,Spotify,CASH,Purchase,COMPLETE
+T50172,C1111,2024-11-30,612.19,Payment,Online Payment,debit card,Payment,Pending
+T50244,C1103,05/29/2024,154.21,Utilities,PECO Energy,Credit Card,Purchase,Complete 
+T50723,C1078,11/27/2024,374.96,Retail,WALMART,Credit Card,Purchase,Completed
+T50729,C1115,2025-05-28,"$1,000.79",Payment,Online Payment,ACH,Payment,Completed
+T50661,C1048,12/02/2024,-208.92,Transport,Uber,CASH,Refund,PEND
+T50307,C1060,19/03/2024,185.43,Retail,Best Buy,Credit Card,Purchase,Completed
+T50473,C1001,2025-03-12,USD -42.07,Shopping, Walmart,cash,Refund,Failed
+T50433,C1109,"November 21, 2024",$144.92,Transport,Shell,Debit Card,Purchase,Failed
+T50069,C1090,2024-08-17,210.09,Bills, PA American Water,CASH,Purchase,Pending
+T50164,C1018,2025-01-06,391.11,Payment,Online Payment,Credit Card,Payment,Pending
+T50402,C1038,2024-05-24,255.45,Transport,Lyft,Credit card,Purchase,Completed
+T50354,C1119,"April 05, 2024",200.94,Dining,Chipotle,Credit Card,Purchase,failed
+T50497,C1105,"January 10, 2025",N/A,Shopping,Best Buy,CASH,Purchase,Pending
+T50514,C1128,2024-05-03 02:45:42,,dining,Chipotle,Debit Card,Purchase,Declined
+T50662,C1134,09/12/2024,N/A,Payment, Online Payment,cash,Payment,Failed
+T50660,C1055,2024-10-04,171.56,Entertain.,Regal Cinemas,Credit Card,purchase,Completed
+T50368,C1014,2024-11-19,449.66,Transport,Shell,Credit card,Purchase,Completed
+T50443,C1103,2025-03-24,156.34,Transport,Sunoco,,Purchase,Pending
+T50234,C1103,unknown,1188.39,Payment, Online Payment,Credit card,Payment,Failed
+T50020,C1091,19/03/2025,$240.27,Transportation, uber,Cash,Purchase,Complete 
+T50169,C1018,12/10/2024,154.97,Utilities,PA American Water,DEBIT,Purchase,Pending
+T50106,C1072,2025-02-21,14.53,Dining,McDonald's,Cash,Purchase,Completed
+T50742,C1062,"March 22, 2025",,Retail,Best Buy,Debit Card,Purchase,Completed
+T50255,C1111,"April 02, 2025",234.93,Groceries,Wegmans,ACH,Purchase,Completed
+T50740,C1131,2024-12-17 04:52:18,240.94,Restaurants,Panera Bread,Debit Card,purchase,failed
+T50759,C1138,2024-08-05 04:53:08,USD 85.84,Utilities,Verizon,CC,Purchase,Completed
+T50190,C1083,2025-03-10,935.19,Payment,Online Payment,ACH,Payment,Completed
+T50217,C1104,"July 21, 2024",809.53,Payment,Online Payment,debit card,Payment,Completed
+T50387,C1115,2024-11-23,N/A,Grocery,Giant Food,Cash,Purchase,Completed
+T50552,C1052,"May 02, 2025",33.88,Groceries,Wegmans,debit card,Purchase,Failed
+T50046,C1126,2024-09-14,156.01,Bills,Comcast,CC,Purchase,Completed
+T50761,C2023,2024-01-27,70.45,Dining,McDonald's,ACH Transfer,Purchase,Pending
+T50647,C1074,2025-03-27,1078.49,Payment, Online Payment,ACH,Payment,Pending
+T50701,C1124,2024-10-03,-88.01,Entertainment,Spotify,Credit Card,Refund,Pending
+T50771,C1082,03/06/2025,USD 169.23,Utilities,PECO Energy,Debit Card,Purchase,Completed
+T50727,C1020,11/26/2024,USD 359.76,Groceries,ACME Markets,debit card,Purchase,Failed
+T50302,C1037,2025-04-18 11:26:20,139.86,Shopping,Walmart,,Purchase,pending
+T50118,C1008,2025-04-27,-386.58,Transportation,Uber,Cash,Purchase,Completed
+T50619,C1114,,14.45,Shopping,Target,Cash,Purchase,Completed
+T50748,C2022,10/07/2024,265.33,TRANSPORT,Lyft,DEBIT,Purchase,Failed
+T50371,C1027,2024-04-22,82.61,utilities,PECO Energy,Credit Card,Purchase,Completed
+T50726,C1130,2024-04-29,$118.97,Dining,Panera Bread,Cash,Purchase,Pending
+T50350,C2001,"March 22, 2025",276.91,Dining, Starbucks,Cash,Purchase,Completed
+T50048,C1128,2/15/25,104.69,Shopping,AMAZON,,Purchase,Failed
+T50489,C1132,2024-05-10 06:13:31,119.44,Utilities,Verizon,Debit,Purchase,Complete 
+T50339,C1063,2025-01-08,193.09,entertainment,Spotify,Credit Card,purchase,Completed
+T50686,C1030,03/31/2024,9.21 USD,shopping,AMZN Mktp,Debit Card,Purchase,Failed
+T50145,C1019,03/31/2025,149.67,Groceries,Trader Joe's,Debit Card,Purchase,Completed
+T50450,C1123,2024-02-18,$49.09,Transport,Shell,Credit Card,Purchase,Completed
+T50139,C1100,2024-07-05,-167.37,Shopping, Amazon,credit card,Refund,Completed
+T50657,C1011,2024-11-13,-204.94,Transport,Uber,,Purchase,Completed
+T50744,C1128,12/31/2024,31.28,Dining,Chipotle,Cash,Purchase,Completed
+T50282,C1066,10/31/2024,162.32,Groceries,Trader Joe's,ACH Transfer,Purchase,Completed
+T50623,C1030,07/04/2024,$97.94,Entertainment,Steam,ach,Purchase,Failed
+T50507,C1090,2024-08-12,-31.29,Groceries,ACME Markets,Debit Card,Refund,Failed
+T50680,C1006,2025-05-14,314.49,Entertainment,Steam,Credit card,Purchase,Failed
+T50768,C1107,"December 22, 2024",N/A,Dining,Panera Bread,CASH,Purchase,Completed
+T50192,C1004,2024-12-31,$416.80,DINING,Panera Bread,CASH,purchase,Completed
+T50614,C1002,"June 08, 2024",205.99,DINING,Panera Bread,Debit Card,Purchase,Completed
+T50365,C2015,"September 18, 2024",$211.96,SHOPPING,Best Buy,Cash,Purchase,Pending
+T50140,C1052,2024-08-26,8.64,Transport,Uber Trip,Cash,Purchase,COMPLETE
+T50182,C1131,2024-11-21,156.55 USD,Utilities,PA American Water,Cash,Purchase,Completed
+T50645,C1059,2025-03-20,USD 1344.35,Payment,Online Payment,Debit Card,Payment,Completed
+T50260,C1003,2025-03-21 22:16:18,292.42,Groceries,Trader Joe's,,Purchase,Completed
+T50469,C1057,2024-05-01 03:07:55,$137.55,Utilities,PECO Energy,Cash,Purchase,Completed
+T50424,C1103,2024-03-14,233.04,Transport,Lyft,Debit Card,Purchase,Pending
+T50078,C1090,2024-07-28,1160.16,Payment,Online Payment,ach,Payment,pending
+T50173,C1007,24/12/2024,165.46,Transport,Sunoco,ACH,Purchase,Completed
+T50323,C2020,2024-06-13 01:52:33,40.13,transport,UBER,Credit Card,Purchase,Failed
+T50155,C1018,03/04/2025,383.97,Entertainment,Spotify,Cash,Purchase,Completed
+T50211,C1083,2024-06-26,214.14,Entertain.,NETFLIX,Debit Card,Purchase,Failed
+T50501,C1041,"January 21, 2025",$155.53,Bills,PA American Water,Credit Card,Purchase,Completed
+T50739,C1027,03/17/2025,324.26,Dining,Panera Bread,ACH,Purchase,Completed
+T50040,C1059,04/24/2024,905.39,Payment,Online Payment,ACH,Payment,Failed
+T50487,C1138,unknown,107.86,Entertainment,NETFLIX,,Purchase,completed
+T50629,C1016,2025-05-11,318.13,ENTERTAINMENT,Regal Cinemas,ACH,Purchase,Pending
+T50033,C1018,2024-01-23,181.17,transport,Lyft,,Purchase,Completed
+T50287,C1040,"April 13, 2024",22.54 USD,Transport,Sunoco,ACH,Purchase,Completed
+T50628,C1027,11/10/2024,194.21 USD,Shopping,WALMART,ach,Purchase,Failed
+T50295,C1079,08/13/2024,N/A,GROCERIES,Giant Food,Debit Card,Purchase,Completed
+T50004,C1052,"January 02, 2025",-316.38,Dining,Chipotle,DEBIT,Purchase,Completed
+T50651,C1095,2024-11-06,1410.78,Payment,Online Payment,Credit card,Payment,Completed
+T50148,C1066,unknown,-394.18,Groceries,Trader Joe's,Cash,Refund,Completed
+T50251,C1099,"March 31, 2025",55.41,Transport,Shell,cash,Purchase,PEND
+T50681,C1137,11/28/2024,$259.56,Restaurants,Chipotle,CC,Purchase,Failed
+T50708,C1046,5/24/24,127.49,dining,Panera Bread,Credit card,purchase,Completed
+T50229,C1097,2024-03-24,USD 70.55,Transport,Uber,CC,Purchase,Declined
+T50732,C1041,12/15/2024,N/A,Payment,Online Payment,DEBIT,Payment,Failed
+T50036,C1116,09/09/2024,199.84,Entertainment,Regal Cinemas,Debit Card,Purchase,failed
+T50367,C1088,2025-05-01 10:48:34,USD 63.20,Shopping,Best Buy,credit card,Purchase,Completed
+T50624,C1137,"March 01, 2024",N/A,Dining,Panera Bread,,purchase,Pending
+T50737,C1105,2024-07-03,308.76,GROCERIES,Trader Joe's,DEBIT,Purchase,Pending
+T50793,C1137,11/10/2024,-97.38 USD,Retail,amazon,ACH Transfer,Refund,Completed
+T50239,C1067,2024-04-22,211.79,transport,Sunoco,Debit Card,Purchase,completed
+T50586,C1121,2024-11-08 09:32:03,361.13,Transport,Sunoco,Cash,Purchase,Failed
+T50254,C1138,20/07/2024,12.02,Retail,Target,debit card,Purchase,Failed
+T50665,C1108,2024-09-06 23:42:58,211.20,Groceries,ACME Markets,ACH,Purchase,Pending
+T50452,C1091,06/29/2024,$754.60,Payment,Online Payment,CASH,Payment,Failed
+T50553,C1019,07/25/2024,203.34,Dining,Starbucks,,Purchase,Completed
+T50540,C1001,2024-02-21,99999.99,Payment,Online Payment,ACH Transfer,Payment,Complete 
+T50434,C1125,06/03/2025,126.29,GROCERIES,Giant Food,Credit card,Purchase,Completed
+T50779,C1009,2024-08-23,354.48 USD,Entertainment,Regal Cinemas,,Purchase,Pending
+T50227,C1052,22/04/2024,340.63 USD,Entertainment,Steam,ACH,Purchase,Pending
+T50561,C1081,11/03/2024,221.66,Transport,Shell,Cash,purchase,Completed
+T50617,C1109,2025-04-08,64.22,Transport, Uber,Credit Card,Purchase,Pending
+T50006,C1052,"April 14, 2025",-18.56,Transport,Uber,Cash,Purchase,Completed
+T50491,C1122,2024-04-10 05:50:51,365.82,Dining,Chipotle,ACH Transfer,Purchase,Completed
+T50409,C1123,2025-05-05,215.58,Dining,Panera Bread,Cash,Purchase,Completed
+T50644,C1037,2024-07-24,-313.29,groceries, Giant Food,Cash,Refund,Completed
+T50481,C1058,2024-02-22,115.38,ENTERTAINMENT,Steam,Debit Card,Purchase,COMPLETE
+T50391,C1084,12/26/24,$191.35,Groceries,Giant Food,Debit Card,Purchase,Completed
+T50430,C1021,04/12/2025,164.51,Grocery,Giant Food,ACH,Purchase,Pending
+T50582,C1002,2024-07-24,$126.08,utilities,Verizon,Debit Card,Purchase,Failed
+T50061,C1083,"July 29, 2024","1,495.29",Payment, Online Payment,CASH,Payment,Completed
+T50141,C1058,"January 24, 2024",156.39,shopping,Amazon,Debit Card,Purchase,Pending
+T50542,C1052,2024-12-21 21:47:37,146.65,utilities,Comcast,cash,Purchase,Complete 
+T50610,C1034,"September 21, 2024",382.80,Dining,Chipotle,cash,Purchase,Failed
+T50300,C1112,01/24/2025,213.53,transport,Lyft,Credit Card,Purchase,completed
+T50442,C1090,04/22/2025,580.50,Payment,Online Payment,CASH,Payment,Completed
+T50095,C1063,7/27/24,75.59,Utilities,PECO Energy,,Purchase,Completed
+T50086,C1131,2025-03-22 04:23:59,99999.99,entertainment,Netflix,Debit Card,Purchase,Pending
+T50537,C1134,"November 01, 2024",,transport,Lyft,cash,Purchase,COMPLETE
+T50414,C1032,12/31/2024,296.40,entertainment,Steam,CC,Purchase,Completed
+T50756,C1136,11/26/2024,280.30,Dining,Panera Bread,ach,Purchase,Pending
+T50075,C1069,2025-02-23 07:52:12,70.60,Shopping,Best Buy,Credit card,Purchase,Completed
+T50350,C2001,"March 22, 2025",276.91,Dining, Starbucks,Cash,Purchase,Completed
+T50137,C1097,08/05/2024,79.28,Transport,Uber Trip,Cash,Purchase,Pending
+T50650,C1003,27/01/2025,"1,445.04",Payment,Online Payment,Credit card,Payment,COMPLETE
+T50311,C1129,2025-01-22,279.35,Groceries,Giant Food,Debit Card,Purchase,completed
+T50400,C1101,2024-12-16,$328.19,Dining,Chipotle,ach,Purchase,Failed
+T50791,C1059,03/15/2024,305.21,Entertain., Steam,Cash,Purchase,Pending
+T50317,C1106,"February 13, 2025",-95.15,Grocery,Wegmans,Cash,Purchase,Completed
+T50238,C1139,12/09/2024,43.22,Shopping,Best Buy,ACH,Purchase,Failed
+T50569,C1039,2024-04-19,N/A,Entertainment,Spotify,DEBIT,Purchase,Failed
+T50232,C1120,01/16/2024,63.04,Utilities, Verizon,Debit,Purchase,Completed
+T50595,C1110,08/02/2024,222.10,Shopping,Best Buy,ACH Transfer,Purchase,Failed
+T50620,C1042,unknown,$611.49,Payment,Online Payment,Debit Card,Payment,Completed
+T50669,C1114,01/22/2025,398.86,Entertainment,Spotify,Credit Card,Purchase,Declined
+T50688,C1061,28/05/2024,1452.08,Payment,Online Payment,Debit Card,Payment,completed
+T50100,C1030,2025-05-19,265.67,Shopping,Target,CC,Purchase,Completed
+T50506,C1061,2025-03-20 03:58:36,USD 419.20,TRANSPORT,Uber,ACH,Purchase,completed
+T50613,C1011,"January 02, 2024",325.09,Entertainment,Regal Cinemas,,Purchase,Completed
+T50127,C1021,02/26/2024,63.36,Groceries,Giant Food,cash,Purchase,Completed
+T50084,C1085,01/16/2024,382.01,Transportation,UBER,Credit Card,Purchase,Completed
+T50135,C1057,02/21/2024,213.89,shopping,Target Store,cash,Purchase,Failed
+T50438,C1021,12/02/2024,-220.81,Dining,Panera Bread,ach,Purchase,Pending
+T50292,C1114,03/17/2025,USD 217.47,UTILITIES, Comcast,Debit Card,Purchase,Completed
+T50331,C1131,2025-01-25,$42.02,Shopping,Target,Credit card,Purchase,Declined
+T50231,C1025,2025-05-30,54.38,transport,Shell,Cash,Purchase,Failed
+T50724,C1045,2025-03-31,-224.99,Shopping,Wal-Mart,Debit,Refund,Completed
+T50545,C1124,6/30/24,425.22,Payment,Online Payment,Debit Card,Payment,Completed
+T50120,C1003,2024-03-13,94.17,Grocery,Trader Joe's,Cash,Purchase,completed
+T50697,C1053,2025-02-25 10:17:38,385.66,GROCERIES,Trader Joe's,Cash,Purchase,Completed
+T50016,C1016,5/17/24,14.46,Groceries, Trader Joe's,Debit Card,purchase,Completed
+T50638,C1029,1/20/24,412.06,Dining, Panera Bread,ach,Purchase,Pending
+T50755,C1096,04/20/2025,99999.99,Transport,Uber,ach,Purchase,Completed
+T50273,C1031,2024-05-31,N/A,Transport,Uber,Credit Card,Purchase,Declined
+T50346,C2028,04/11/2025,230.68,Dining,Chipotle,Credit Card,Purchase,Completed
+T50213,C1016,unknown,17.84,Groceries,Giant Food,Debit Card,Purchase,completed
+T50746,C1104,2025-05-31,158.16,Utilities,PA American Water,ACH,Purchase,Completed
+T50089,C1053,,$43.91,Transport,Uber,cash,Purchase,COMPLETE
+T50618,C1013,03/05/2025,262.99,Dining,Chipotle,ACH,Purchase,Failed
+T50785,C1007,2024-01-30,355.23,Dining,Chipotle,Credit Card,Purchase,Completed
+T50276,C1056,"May 13, 2024",421.68,Transport,Sunoco,cash,Purchase,Pending
+T50178,C1131,2024-01-05 13:21:30,310.70,Groceries,Wegmans,Credit Card,Purchase,Completed
+T50278,C1053,,456.53,Payment,Online Payment,Debit,Payment,failed
+T50550,C1137,2024-12-15,55.56,dining,McDonalds,Credit Card,Purchase,Completed
+T50792,C1060,2024-06-10 12:24:05,100.66,Utilities,PECO Energy,cash,Purchase,Pending
+T50799,C1088,"October 03, 2024",-234.13,entertainment,Spotify,Credit Card,Purchase,Pending
+T50383,C1140,12/25/2024,393.37,Dining,Starbucks,Cash,Purchase,Completed
+T50678,C1118,04/25/2024,137.06,Transport,Sunoco,Cash,Purchase,Pending
+T50637,C1014,2024-05-23,8.87,Groceries,Giant Food,Debit Card,Purchase,pending
+T50486,C1100,02/16/2025,USD 240.63,Groceries,Wegmans,cash,Purchase,Failed
+T50572,C1129,25/07/2024,449.46,Groceries,Wegmans,Credit Card,Purchase,completed
+T50231,C1025,2025-05-30,54.38,transport,Shell,Cash,Purchase,Failed
+T50199,C1098,2024-11-09,$393.72,Restaurants,Chipotle,Cash,Purchase,Failed
+T50085,C1107,unknown,(392.75),Dining,Panera Bread,Debit Card,Refund,COMPLETE
+T50767,C1029,2024-02-13,293.10,Entertainment,Steam,ACH Transfer,Purchase,Completed
+T50288,C1071,"March 16, 2025",313.13,Groceries, ACME Markets,ACH,Purchase,Pending
+T50349,C1101,12/21/2024,99999.99,Groceries, Trader Joe's,Cash,Purchase,Completed
+T50543,C1115,9/23/24,164.92,shopping,amazon.com,Credit Card,Purchase,completed
+T50198,C1069,2025-03-24,372.89,entertainment,Regal Cinemas,Cash,Purchase,Completed
+T50590,C1027,2025-02-25,N/A,Dining, Chipotle,Debit Card,Refund,pending
+T50563,C1086,2025-01-23,N/A,Restaurants,McDonalds,ach,Purchase,Pending
+T50263,C1004,12/16/2024,359.49 USD,DINING,mcdonald's,debit card,Purchase,completed
+T50601,C1011,"August 26, 2024",$545.64,Payment,Online Payment,Credit Card,Payment,Pending
+T50794,C1017,2024-10-26,138.30,Transport,Lyft,Cash,Purchase,Complete 
+T50129,C1081,08/04/2024,57.47,Shopping,Walmart,Cash,Purchase,Completed
+T50421,C1064,,202.34,Payment,Online Payment,cash,Payment,Complete 
+T50461,C1073,2024-07-06 11:44:37,N/A,utilities,PECO Energy,Debit,Purchase,Completed
+T50166,C1048,"June 17, 2024",212.20,Utilities,PECO Energy,Credit Card,Purchase,completed
+T50741,C1031,12/09/2024,162.13,Utilities, PECO Energy,CASH,Purchase,Completed
+T50221,C1079,07/29/2024,201.57,utilities,PECO Energy,ACH,Purchase,Completed
+T50566,C1083,2024-12-18,$157.76,Dining,STARBUCKS,ACH,Purchase,Completed
+T50796,C1103,11/18/2024,373.01,Groceries,Giant Food,ACH,Purchase,failed
+T50576,C1083,unknown,93.77,Bills,PECO Energy,Cash,Purchase,failed
+T50023,C2012,2024-08-09 16:14:43,148.49 USD,DINING,STARBUCKS,Cash,Purchase,Pending
+T50592,C1004,"August 20, 2024",241.77,Groceries,ACME Markets,ACH,Purchase,Pending
+T50459,C1100,unknown,319.28,Shopping,Walmart,Credit Card,Purchase,FAIL
+T50219,C1049,"March 20, 2025",N/A,dining,Panera Bread,Debit,Purchase,Pending
+T50314,C1027,2025-02-09 06:10:36,155.01,Dining,Panera Bread,Debit Card,Purchase,Completed
+T50720,C1136,"November 20, 2024",-214.96,Utilities,Comcast,Credit Card,Refund,Completed
+T50285,C1040,,203.74,shopping,Wal-Mart,cash,Purchase,Failed
+T50655,C1114,"July 31, 2024",213.89,Transportation,Shell,CC,Purchase,Failed
+T50607,C1096,2024-07-12,27.08,Groceries,Wegmans,DEBIT,Purchase,Completed
+T50436,C1081,2024-09-25,618.83,Payment,Online Payment,cash,Payment,Failed
+T50675,C1058,2025-01-18,18.86,Groceries,Wegmans,Debit Card,Purchase,Pending
+T50252,C1060,26/01/2025,$88.30,Entertainment,Spotify,ach,Purchase,Completed
+T50074,C1019,"June 04, 2025",$33.81,Dining, Chipotle,ACH Transfer,Purchase,Pending
+T50684,C1098,2024-07-09,0.00,dining,Chipotle,ACH,Refund,pending
+T50654,C1106,unknown,847.25,Payment,Online Payment,Debit Card,Payment,COMPLETE
+T50114,C1009,2024-12-04,134.48,Transport,Uber,Debit,Purchase,completed
+T50068,C1046,5/25/25,320.21,Dining,Chipotle,Cash,Purchase,Complete 
+T50672,C1078,2024-05-31,25.26,DINING,Chipotle,Cash,Purchase,Failed
+T50615,C1037,21/08/2024,3.67,Transport,Lyft,debit card,Purchase,Completed
+T50116,C1117,2024-01-17,$176.72,Bills,Verizon,Debit Card,Purchase,Completed
+T50694,C1063,08/20/2024,$416.96,Transport,Shell,Credit Card,Purchase,Complete 
+T50309,C1094,5/14/24,446.68,entertainment,Spotify,Credit Card,Purchase,Completed
+T50381,C1008,"May 17, 2024",340.75,TRANSPORT,Shell,debit card,Purchase,Failed
+T50289,C1064,2024-08-31 18:25:30,363.60,dining, Panera Bread,debit card,Purchase,Failed
+T50317,C1106,"February 13, 2025",-95.15,Grocery,Wegmans,Cash,Purchase,Completed
+T50057,C2011,,393.26,Dining, Panera Bread,Cash,Purchase,Pending
+T50734,C1063,08/30/2024,6.26,Dining,Chipotle,cash,Purchase,Completed
+T50690,C1072,05/30/2024,-82.21,Utilities,Verizon,ach,Purchase,pending
+T50788,C1035,2024-12-23 20:45:26,"$1,332.81",Payment,Online Payment,Debit,Payment,Completed
+T50147,C1086,2025-05-08 06:23:49,198.44,Shopping,Walmart,CASH,Purchase,Completed
+T50749,C1083,2025-03-27 10:35:34,226.51,groceries, Wegmans,Debit,Purchase,Completed
+T50183,C1139,2025-06-02,USD 171.30,dining, McDonalds,Debit Card,Purchase,Completed
+T50014,C1050,02/26/2024,330.52,DINING,Chipotle,CASH,Purchase,PEND
+T50210,C1030,2024-07-21,662.84,Payment,Online Payment,CASH,Payment,pending
+T50209,C1054,10/07/2024,-272.08,TRANSPORT,Shell,ACH,Refund,Failed
+T50009,C1037,2024-08-13,$90.21,Groceries, Trader Joe's,ACH,Purchase,Pending
+T50247,C1032,06/06/2024,377.17,transport,Lyft,Credit Card,Purchase,Completed
+T50564,C1118,2024-07-07 02:16:32,1275.90,Payment,Online Payment,Debit,Payment,Pending
+T50044,C1062,04/17/2025,78.64,Groceries,Trader Joe's,,Purchase,PEND
+T50150,C1067,"September 26, 2024",43.85,Groceries,ACME Markets,ACH Transfer,Purchase,Failed
+T50064,C1088,26/11/2024,$290.19,GROCERIES,Wegmans,Credit Card,Purchase,COMPLETE
+T50393,C1011,2024-11-19 13:13:11,81.91,Shopping,Best Buy,Credit Card,Purchase,Complete 
+T50549,C1097,"August 15, 2024",9.72,SHOPPING,AMAZON,ACH Transfer,Purchase,Pending
+T50202,C1066,2024-02-03 23:47:11,-30.21,Entertainment,netflix,ACH,Purchase,Completed
+T50695,C1009,2024-08-06,93.65,Utilities,Verizon,Credit card,Purchase,Failed
+T50143,C1058,16/04/2024,232.78,Payment,Online Payment,ach,Payment,PEND
+T50313,C1054,2024-12-24,$68.69,Dining,Starbucks,,Purchase,Completed
+T50587,C1030,02/03/2024,429.05,TRANSPORT,Shell,,Purchase,Completed
+T50606,C1051,"February 18, 2025",$695.89,Payment,Online Payment,Cash,Payment,Complete 
+T50522,C1008,3/01/24,35.14,Entertainment,Netflix,Debit Card,Purchase,Completed
+T50110,C1018,"June 18, 2024",-321.17,Groceries,Trader Joe's,Credit Card,Refund,Completed
+T50396,C1138,2024-03-21,USD 269.39,GROCERIES,Wegmans,credit card,Purchase,Completed
+T50609,C1111,"August 19, 2024",187.88,Bills,Verizon,ACH,Purchase,Failed
+T50751,C1098,2025-01-31,363.20,GROCERIES,Wegmans,Cash,Purchase,failed
+T50425,C1030,2024-09-18 09:18:48,-382.37,transport,Uber Trip,ach,Purchase,Pending
+T50154,C1061,06/02/2025,$91.38,Entertainment,Spotify,Cash,Purchase,Completed
+T50335,C1039,07/31/2024,699.82,Payment,Online Payment,DEBIT,Payment,Completed
+T50505,C1090,unknown,552.00,Payment,Online Payment,Credit Card,Payment,Pending
+T50345,C1065,2025-03-27,274.69,Groceries,Trader Joe's,Cash,Purchase,completed
+T50449,C1112,04/22/2025,,Shopping, amazon.com,ACH Transfer,purchase,Pending
+T50405,C1094,2024-06-04,290.51,entertainment,Netflix,Debit Card,Purchase,Completed
+T50712,C1112,13/04/2024,-263.93,Entertainment,Spotify,Credit Card,Refund,Completed
+T50446,C1057,2024-05-10,48.87,Transportation,Sunoco,ACH Transfer,Purchase,Failed
+T50153,C1053,2024-12-13,30.72,Entertainment,Regal Cinemas,ACH Transfer,Purchase,Failed
+T50342,C1135,03/18/2025,229.49,Restaurants,Starbucks #4421,Credit Card,Purchase,Completed
+T50318,C1086,11/11/2024,$263.21,Entertainment,Spotify,ACH Transfer,Purchase,Failed
+T50144,C1030,2024-09-16,$369.76,Payment,Online Payment,Debit Card,Payment,Completed
+T50071,C1055,2025-03-21 14:43:25,348.95,dining,McDonald's,credit card,Purchase,Complete 
+T50503,C1099,2024-02-13,171.10,Utilities,PECO Energy,ach,Purchase,Completed
+T50236,C1058,01/13/2024,0.00,Shopping,Walmart,Cash,Purchase,completed
+T50596,C1010,02/11/2025,127.95 USD,Utilities, Verizon,ACH,Purchase,Completed
+T50602,C1074,03/16/2024,USD 275.54,Entertainment,Spotify,Credit card,Purchase,Completed
+T50753,C1117,2025-04-02,286.55,Grocery,Giant Food,CASH,Purchase,Complete 
+T50355,C1048,03/05/2025,0.00,Utilities,Verizon,Cash,Purchase,Pending
+T50627,C1051,2024-11-21,719.60,Payment,Online Payment,credit card,Payment,pending
+T50138,C1093,01/26/2024,$83.45,Entertainment,Steam,Credit Card,Purchase,Pending
+T50275,C1014,2024-08-28,409.68,SHOPPING,Best Buy,cash,Purchase,Complete 
+T50786,C1056,2024-09-30 17:30:59,189.20,Utilities, Comcast,ACH,Purchase,Completed
+T50280,C1093,"September 28, 2024",290.87,Transport, Lyft,CASH,Purchase,Completed
+T50027,C1112,01/11/2024,,Utilities,PA American Water,Credit card,Purchase,Failed
+T50776,C1002,"March 18, 2024",56.52 USD,Transport,Lyft,ACH,purchase,Failed
+T50119,C1091,"March 23, 2025",425.55,Groceries,Wegmans,Debit Card,Purchase,completed
+T50024,C1040,2024-10-10,93.51,Entertainment,Regal Cinemas,cash,Purchase,Complete 
+T50343,C1108,"December 25, 2024",166.67,UTILITIES,Comcast,ACH Transfer,Purchase,Completed
+T50635,C1087,15/03/2025,358.60 USD,GROCERIES,Giant Food,Credit Card,Purchase,Completed
+T50399,C1059,2024-03-12,220.35,Transport,uber,Debit Card,Purchase,completed
+T50534,C1025,07/28/2024,USD 204.17,UTILITIES,Verizon,ACH Transfer,Purchase,Completed
+T50389,C1053,2024-05-31,154.56,Groceries,Trader Joe's,ach,Purchase,Failed
+T50162,C1117,2024-12-14 06:55:29,USD 391.82,transport,Sunoco,ACH,Purchase,completed
+T50326,C1047,02/20/2024,USD 60.51,UTILITIES, PA American Water,Cash,Purchase,Completed
+T50465,C1095,06/23/2024,$204.28,Groceries,Wegmans,Cash,purchase,FAIL
+T50281,C1064,04/26/2024,$314.52,Shopping, Walmart,Credit Card,Purchase,PEND
+T50664,C1139,2025-03-24 03:32:12,$164.32,Utilities,PECO Energy,,Purchase,Completed
+T50673,C1069,"May 13, 2025",170.33,Utilities,PA American Water,Credit card,Purchase,Pending
+T50494,C1034,2025-03-01,,UTILITIES,PA American Water,Debit Card,Purchase,Pending
+T50417,C1012,2024-03-08 20:29:37,24.48,Transportation,UBER,Credit Card,Purchase,Completed
+T50516,C1127,12/05/2024,320.79,Dining, Starbucks,Cash,Purchase,Completed
+T50682,C1011,"May 23, 2024",45.83,Shopping,Target,,Purchase,Completed
+T50479,C1091,03/06/2024,99.24 USD,Utilities,PECO Energy,Cash,Purchase,PEND
+T50658,C1106,1/07/24,USD 316.89,Groceries,Giant Food,Credit Card,Purchase,Failed
+T50041,C1029,2025-03-03,157.51,Shopping,Target,debit card,Purchase,Pending
+T50513,C1113,"April 13, 2024",117.44,UTILITIES,PA American Water,ACH Transfer,Purchase,Complete 
+T50268,C1078,03/11/2025,38.40,Groceries,Wegmans,Credit Card,Purchase,Completed
+T50525,C1116,03/14/2024,N/A,Utilities,Verizon,ach,Purchase,Pending
+T50428,C1077,"April 06, 2024",370.22,Entertainment,Spotify,Credit card,Purchase,Pending
+T50372,C1076,2024-06-25,97.75,Dining, Panera Bread,Debit Card,Purchase,Failed
+T50059,C1118,03/06/2024,99999.99,Bills,PECO Energy,,Purchase,Failed
+T50484,C1060,18/03/2025,188.92,Retail,Wal-Mart,Debit Card,Purchase,Completed
+T50580,C1126,2025-01-03,63.29,Dining,mcdonald's,Credit card,purchase,Completed
+T50262,C1030,04/10/2025,678.87,Payment,Online Payment,ACH,Payment,Failed
+T50293,C1006,02/02/2025,190.08,Shopping,Amazon,Debit Card,Purchase,Completed
+T50458,C1029,unknown,228.67,Retail,Target Store,Credit Card,Purchase,Completed
+T50501,C1041,"January 21, 2025",$155.53,Bills,PA American Water,Credit Card,Purchase,Completed
+T50477,C1139,2025-01-11,1404.78,Payment,Online Payment,debit card,Payment,Completed
+T50215,C1113,2024-04-03,USD -330.28,Shopping,Amazon,Debit,Refund,Pending
+T50123,C1057,"April 16, 2024",$71.58,Groceries,Trader Joe's,Credit card,Purchase,Failed
+T50159,C1083,2024-01-01,$297.86,Entertainment,Regal Cinemas,Credit Card,Purchase,Completed
+T50333,C1056,2025-01-03,-263.06,Grocery,Giant Food,Debit Card,Purchase,Completed
+T50699,C1115,2025-04-26,$52.38,SHOPPING,Best Buy,debit card,Purchase,COMPLETE
+T50663,C1078,04/26/2025,285.88,Entertain., Spotify,CC,Purchase,Completed
+T50478,C1086,2024-09-30,97.88,TRANSPORT,uber,CASH,Purchase,Pending
+T50286,C1138,12/02/2024,275.44,entertainment, Netflix.com,Cash,Purchase,Complete 
+T50113,C1131,03/21/2024,163.80,DINING,starbucks,Debit,Purchase,Pending
+T50556,C1106,2025-01-25,394.61,Entertainment,Spotify,ACH,Purchase,Failed
+T50112,C1071,2025-05-27,303.18,entertainment,Spotify,Cash,Purchase,Pending
+T50152,C1121,2025-04-13 14:39:12,$263.38,DINING,Chipotle,,Purchase,COMPLETE
+T50108,C1122,2024-11-23 10:02:09,-307.66,Shopping,Best Buy,ACH Transfer,Purchase,Pending
+T50722,C1067,09/21/2024,374.97,Entertainment, Regal Cinemas,ach,Purchase,Complete 
+T50793,C1137,11/10/2024,-97.38 USD,Retail,amazon,ACH Transfer,Refund,Completed
+T50298,C1051,,415.13,Groceries,Giant Food,ach,Purchase,Declined
+T50579,C1034,"June 04, 2025",USD 223.86,shopping,Best Buy,Cash,Purchase,Completed
+T50448,C1058,2024-02-16,189.72,Utilities,PA American Water,ach,Purchase,Completed
+T50714,C1047,03/28/2025,448.13,groceries,Trader Joe's,Debit Card,Purchase,Completed
+T50256,C1110,2024-07-30,152.04,Payment,Online Payment,DEBIT,Payment,COMPLETE
+T50063,C1066,04/03/2025,$11.97,Dining,mcdonald's,Credit card,Purchase,Completed
+T50272,C1124,07/30/2024,137.82,Entertainment,Spotify,Cash,Purchase,Completed
+T50087,C1052,2024-11-27 06:56:13,$6.80,Entertain.,NETFLIX,Debit Card,Purchase,Pending
+T50633,C1114,07/06/2024,980.31,Payment,Online Payment,ACH,Payment,Completed
+T50384,C1048,2024-07-17,$16.62,Shopping,WALMART,Credit Card,Purchase,Failed
+T50364,C1120,"May 25, 2025",302.71,Shopping,Target,Cash,Purchase,Completed
+T50407,C1039,01/03/2025,-182.02,Transport,Lyft,Debit Card,Refund,Failed
+T50264,C1128,05/01/2025,182.43,Utilities,PECO Energy,Debit Card,Purchase,completed
+T50616,C1045,07/07/2024,$32.42,Entertainment,Spotify,debit card,Purchase,Completed
+T50185,C1099,2024-03-02,411.45,Transportation,Lyft,Cash,Purchase,Complete 
+T50676,C1004,05/08/2024,379.69,Transportation,Sunoco,Cash,Purchase,Completed
+T50460,C1088,2025-01-06,324.88,Shopping,Target,Debit,Purchase,failed
+T50077,C1061,unknown,31.66,Entertainment,Steam,ach,Purchase,Completed
+T50416,C1034,11/06/2024,50.68,Dining,mcdonald's,CASH,Purchase,Completed
+T50648,C1105,06/26/2024,130.32,Shopping,Amazon,CASH,purchase,Completed
+T50218,C1056,05/08/2024,374.33,Grocery,ACME Markets,Credit Card,Purchase,Pending
+T50707,C1025,2024-05-15,248.33,entertainment,Netflix,CASH,Purchase,Completed
+T50216,C1070,03/26/2025,$48.21,Utilities,Verizon,,Purchase,Completed
+T50564,C1118,2024-07-07 02:16:32,1275.90,Payment,Online Payment,Debit,Payment,Pending
+T50530,C1138,05/10/2025,USD 131.25,Utilities,Comcast,ACH,Purchase,FAIL
+T50689,C1077,05/30/2025,99999.99,Dining,Panera Bread,ACH,Purchase,Completed
+T50432,C1048,2025-05-04,-177.08,Transport,Lyft,Credit Card,Refund,Pending
+T50773,C1112,2024-02-28,184.34 USD,Utilities,PA American Water,Credit card,Purchase,Completed
+T50524,C1009,02/10/2024,442.12,ENTERTAINMENT, Spotify,Credit Card,Purchase,Completed
+T50246,C1074,"January 01, 2024",26.43,Groceries,ACME Markets,credit card,purchase,Completed
+T50578,C1075,2025-02-13,-167.52,Dining,Starbucks,Credit Card,Purchase,Completed
+T50685,C1013,"February 17, 2025",99999.99,Shopping,AMAZON,,Purchase,COMPLETE
+T50782,C1109,"March 17, 2024",USD 420.13,dining,Panera Bread,ACH,Purchase,Completed
+T50470,C1101,2025-03-05 07:32:01,126.50,Utilities,Comcast,ach,Purchase,Failed
+T50363,C1133,6/23/24,251.45,Transport,Shell,ach,Purchase,COMPLETE
+T50035,C1024,"January 11, 2025",USD 183.09,Utilities,Verizon,Cash,Purchase,Completed
+T50207,C1069,2025-04-18 23:28:56,9.09,Entertainment,Steam,Cash,Purchase,Completed
+T50709,C1108,2024-12-28,171.04,Groceries,Wegmans,Cash,Purchase,Completed
+T50713,C1098,07/28/2024,438.55,Shopping,Amazon,ACH,Purchase,Completed
+T50797,C1031,08/11/2024,203.72,Entertainment,Regal Cinemas,ACH,Purchase,Failed
+T50237,C1119,2/02/24,-214.62,Bills,PECO Energy,Credit Card,Purchase,Pending
+T50397,C1112,2025-01-31,$153.22,Entertainment,Steam,debit card,Purchase,Completed
+T50327,C1015,"July 04, 2024",444.28,Transport, Sunoco,,Purchase,Failed
+T50700,C1096,2024-03-07,420.39,TRANSPORT,Shell,Credit Card,Purchase,COMPLETE
+T50376,C1106,27/10/2024,13.67,Shopping,Amazon,Credit Card,Purchase,FAIL
+T50517,C1005,2025-01-30 08:54:56,$47.19,Utilities, PECO Energy,Debit Card,Purchase,Complete 
+T50072,C1087,01/16/2024,USD 146.08,Payment, Online Payment,Debit Card,Payment,COMPLETE
+T50161,C1084,02/26/2024,321.82,Shopping,TARGET,Debit Card,Purchase,Failed
+T50093,C1116,03/12/2024,355.11 USD,Shopping,Walmart,Credit Card,Purchase,pending
+T50228,C1133,"February 04, 2024",885.19,Payment,Online Payment,ACH,Payment,completed
+T50279,C1045,1/08/25,(441.40),Shopping,Best Buy,ACH Transfer,Refund,Pending
+T50131,C1037,2024-01-15,$51.51,Bills, PECO Energy,Credit Card,Purchase,Failed
+T50092,C1139,08/20/2024,346.19,Dining,Starbucks,Credit Card,Purchase,Completed
+T50784,C1099,2024-04-27,43.17,Entertainment,Steam,Debit Card,Purchase,Failed
+T50406,C1077,"October 29, 2024",330.62,Shopping,Wal-Mart,cash,Purchase,Pending
+T50640,C1090,07/21/2024,0.00,Shopping,Best Buy,Debit Card,Purchase,Complete 
+T50705,C1112,2024-06-26,196.95,Transport,Sunoco,Credit Card,Purchase,Failed
+T50197,C1122,07/08/2024,$298.01,Groceries,Trader Joe's,Credit Card,Purchase,COMPLETE
+T50133,C1003,2024-09-26,297.68,groceries,Giant Food,Credit card,Purchase,failed
+T50798,C1041,"June 24, 2024",222.55,Groceries,ACME Markets,cash,Purchase,Completed
+T50511,C1125,05/02/2024,211.08,Transport,Lyft,ACH,Purchase,Completed
+T50243,C1121,2024-01-03,191.31,Retail,Amazon,CASH,Purchase,Failed
+T50325,C1063,2024-01-11,60.96,groceries,Wegmans,ACH,Purchase,COMPLETE
+T50696,C1058,"October 17, 2024",823.60,Payment,Online Payment,ach,Payment,Pending
+T50403,C1059,16/01/2025,145.77,Utilities,PECO Energy,Debit Card,Purchase,Completed
+T50224,C1131,14/05/2025,USD 112.46,Payment,Online Payment,Debit Card,Payment,Completed
+T50200,C1087,2024-01-23 16:34:24,297.81,SHOPPING,target,ACH Transfer,Purchase,Failed
+T50208,C1119,2024-01-05,407.53,Entertainment,netflix,ACH,Purchase,Complete 
+T50175,C1028,2025-05-23,$190.75,Utilities,PECO Energy,Credit Card,purchase,Completed
+T50230,C1015,10/11/2024,313.02,Grocery,Trader Joe's,CASH,Purchase,Completed
+T50189,C1001,2025-03-01,$895.86,Payment,Online Payment,debit card,Payment,completed
+T50062,C1079,2024-11-07,206.46,Utilities,Comcast,ACH,Purchase,Completed
+T50136,C1123,,$55.88,DINING,Panera Bread,credit card,Purchase,Completed
+T50103,C1101,2024-01-10 21:24:08,0.00,Retail,TARGET,ACH,Refund,Failed
+T50052,C1052,"September 14, 2024",-$116.31,GROCERIES,Wegmans,Debit Card,Refund,Failed
+T50608,C1121,2024-08-17,22.45,Entertainment,Steam,ACH Transfer,Purchase,pending
+T50076,C1023,"March 29, 2025",252.66,Grocery,Giant Food,Credit Card,Purchase,Pending
+T50125,C2027,unknown,172.40,Bills,PA American Water,ACH,Purchase,Completed
+T50504,C1132,"August 02, 2024",$281.97,Restaurants,Panera Bread,cash,Purchase,Failed
+T50472,C1102,"May 17, 2025",,Shopping, Wal-Mart,credit card,Purchase,Failed
+T50444,C1137,2024-06-06,$119.04,Utilities,PECO Energy,ACH,Purchase,Completed
+T50583,C1031,2024-07-07,(149.21),Groceries,Giant Food,Cash,Refund,Completed
+T50212,C1124,"August 15, 2024",USD 137.55,Groceries,Wegmans,ACH,Purchase,Completed
+T50725,C1119,2024-05-02,735.52,Payment,Online Payment,ACH,Payment,failed
+T50142,C1067,11/24/24,291.91,Payment,Online Payment,CC,Payment,Failed
+T50575,C1135,2024-12-24,215.63,Utilities,Comcast,Cash,purchase,Completed
+T50562,C1118,22/09/2024,59.14,Groceries,Giant Food,ACH,Purchase,completed
+T50206,C1024,1/06/25,142.16,GROCERIES, Wegmans,CASH,Purchase,Declined
+T50160,C1082,2024-10-17 04:52:19,0.00,Shopping, WALMART,Debit Card,Purchase,Completed
+T50097,C1026,7/06/24,-185.90,Utilities, Verizon,,Refund,Complete 
+T50775,C1058,"November 21, 2024",USD 546.94,Payment, Online Payment,cash,Payment,Failed
+T50329,C1019,09/26/2024,93.98,UTILITIES,PECO Energy,Debit Card,Purchase,Failed
+T50467,C1025,2024-05-23,405.68,ENTERTAINMENT,Spotify,ach,Purchase,Declined
+T50557,C1117,"January 15, 2024",136.61,UTILITIES,Verizon,ACH Transfer,Purchase,completed
+T50128,C1042,"November 29, 2024",377.06,ENTERTAINMENT,Steam,Credit card,Purchase,completed
+T50030,C1002,05/24/2025,301.64,Transport,Uber,Debit Card,Purchase,Complete 
+T50636,C2013,02/03/2024,774.09,Payment,Online Payment,CASH,Payment,Completed
+T50025,C1039,"December 27, 2024",205.17,Shopping,AMZN Mktp,ACH Transfer,Purchase,COMPLETE
+T50453,C1047,12/05/24,60.15,Bills,PECO Energy,cash,Purchase,Pending
+T50304,C1092,"April 20, 2025",18.76,Grocery,Trader Joe's,CASH,Purchase,completed
+T50109,C1138,2024-10-22,105.29,UTILITIES,PA American Water,Credit card,Purchase,Completed
+T50007,C1130,"June 25, 2024",108.10,Transportation, Lyft,Credit Card,Purchase,Completed
+T50603,C1005,11/25/2024,48.51,Bills,PECO Energy,CC,purchase,completed
+T50404,C1019,03/31/2025,414.89,Payment,Online Payment,,Payment,Pending
+T50415,C1051,2024-01-09,248.25,Groceries,Trader Joe's,cash,Purchase,FAIL
+T50666,C1024,2025-01-13,40.40,Grocery,Trader Joe's,debit card,purchase,Completed
+T50531,C1063,2024-06-26,359.64,Entertainment,Steam,Cash,Purchase,Completed
+T50493,C1059,2024-12-05 21:24:38,$127.47,Entertainment,Regal Cinemas,Credit Card,Purchase,Completed
+T50573,C1121,02/02/2025,-7.72,Shopping, Amazon,CASH,Refund,Completed
+T50337,C1139,9/29/24,168.11,Dining,McDonald's,credit card,Purchase,failed
+T50423,C1015,6/27/24,15.65,DINING,Panera Bread,Cash,purchase,Completed
+T50022,C1023,"July 25, 2024",257.87,Shopping,Best Buy,ACH,Purchase,COMPLETE
+T50117,C1005,27/09/2024,389.01,Dining,Panera Bread,ACH,Purchase,Completed
+T50111,C1048,2024-12-12,405.98,Dining,Panera Bread,Credit Card,Purchase,Completed
+T50032,C1102,2024-06-12,USD 109.52,Groceries,Trader Joe's,ACH Transfer,Purchase,Failed
+T50348,C1084,11/08/2024,1012.83,Payment,Online Payment,Credit card,Payment,FAIL
+T50594,C1038,21/06/2024,161.67,Entertainment,Regal Cinemas,Credit Card,Purchase,Pending
+T50088,C1112,"May 24, 2025",396.33,Groceries,Giant Food,Debit Card,Purchase,Completed
+T50482,C1041,"February 27, 2024",$659.38,Payment,Online Payment,Credit Card,Payment,FAIL
+T50652,C1132,2024-08-19,246.66,Groceries,Giant Food,ACH,Purchase,Completed
+T50643,C1116,2024-03-04 12:32:06,,Transport,Uber,Cash,Purchase,COMPLETE
+T50679,C1030,7/08/24,$255.22,Groceries,Wegmans,Credit Card,purchase,Pending
+T50466,C1069,2024-06-06,71.21,Grocery,Trader Joe's,,Purchase,Failed
+T50029,C1108,03/02/2024,-200.77,Utilities,Comcast,ACH,refund,Completed
+T50691,C1038,29/10/2024,324.86,Payment,Online Payment,ACH Transfer,Payment,Completed
+T50170,C1022,2025-05-12,115.17,Bills,Comcast,Debit Card,Purchase,Declined
+T50214,C1137,2024-05-14 02:55:13,286.54,Restaurants,STARBUCKS,Credit card,Purchase,Completed
+T50567,C1085,02/27/2025,291.76,dining,mcdonald's,Debit Card,Purchase,Pending
+T50781,C1112,unknown,242.54,Shopping,Target,CASH,Purchase,Failed
+T50340,C1054,"May 18, 2024",106.57,Utilities,Verizon,Cash,Purchase,FAIL
+T50132,C1046,04/07/2024,314.46,shopping,Walmart,credit card,Purchase,Completed
+T50187,C1046,,58.43 USD,Groceries,ACME Markets,ACH,Purchase,Completed
+T50049,C1073,"June 29, 2024",112.32,Payment,Online Payment,debit card,Payment,Failed
+T50096,C1059,04/22/2024,-449.18,Dining,STARBUCKS,Debit,Refund,Completed
+T50588,C1125,2024-09-27,1400.23,Payment,Online Payment,Cash,Payment,Pending
+T50270,C1001,2024-02-13,443.92,Entertainment,NETFLIX,Debit Card,Purchase,Completed
+T50571,C1006,03/19/2024,1119.06,Payment,Online Payment,Debit,Payment,Completed
+T50715,C1099,2024-06-13,419.45,Grocery,ACME Markets,Credit card,Purchase,Completed
+T50021,C1010,2024-10-21,196.86,Retail,Amazon.com,ach,Purchase,Declined
+T50361,C1093,"September 25, 2024",165.29,utilities,Comcast,Debit Card,Purchase,Completed
+T50687,C1096,11/14/2024,19.04,Entertainment,Steam,Credit Card,Purchase,Pending
+T50738,C1044,2025-03-15,N/A,Shopping,amazon.com,Debit,Purchase,Complete 
+T50261,C1036,07/21/2024,222.81,Transport,Lyft,CC,Purchase,Completed
+T50529,C1085,12/02/2024,"1,422.61",Payment,Online Payment,CASH,Payment,Completed
+T50765,C1039,"April 21, 2024",50.47,Transport,Lyft,ACH,purchase,Completed
+T50476,C1077,"February 15, 2025",120.69,GROCERIES,ACME Markets,Credit Card,Purchase,COMPLETE
+T50011,C1064,unknown,78.01,Retail,Walmart,Credit Card,Purchase,Completed
+T50599,C1078,"November 08, 2024",300.85,shopping,AMZN Mktp,Debit Card,Purchase,Completed
+T50429,C1123,"August 13, 2024",$246.87,Shopping,Target Store,ach,Purchase,Completed
+T50039,C1026,02/10/2024,"$1,097.62",Payment,Online Payment,CASH,Payment,Completed
+T50248,C1134,2025-04-03,1056.90,Payment,Online Payment,ACH,Payment,Failed
+T50485,C1019,2025-04-01,229.67,Grocery,Wegmans,CASH,Purchase,Pending
+T50026,C1023,"March 12, 2025",N/A,Payment,Online Payment,CC,Payment,Pending
+T50332,C1043,2024-05-27 04:57:29,432.28,entertainment,netflix,Cash,Purchase,Failed
+T50555,C1034,15/03/2025,216.68,Dining,McDonalds,ACH Transfer,Purchase,Completed
+T50698,C1106,"May 10, 2025",57.30,Shopping,Wal-Mart,DEBIT,Purchase,Completed
+T50719,C1134,2025-02-27 15:48:33,101.75,Entertainment,Spotify,ACH Transfer,Purchase,Completed
+T50490,C1029,2025-02-17,402.37,Dining,Panera Bread,cash,Purchase,completed
+T50440,C1074,10/18/2024,189.18,Shopping,Best Buy,Debit Card,Purchase,Declined
+T50196,C1057,07/15/2024,$40.92,Transport,Sunoco,Credit card,Purchase,COMPLETE
+T50269,C1113,"October 04, 2024",16.06,ENTERTAINMENT,Regal Cinemas,Debit Card,Purchase,Complete 
+T50634,C1127,05/11/2025,(15.18),Shopping,Target,ach,Refund,Completed
+T50257,C1017,2024-11-05 11:28:14,413.82,DINING,Chipotle,cash,Purchase,Complete 
+T50394,C1063,"April 28, 2025",169.99,UTILITIES, Verizon,Debit Card,Purchase,Completed
+T50758,C1004,2024-11-09,-141.74,Transport,Lyft,ACH Transfer,Refund,Failed
+T50013,C1135,2024-07-04 05:13:08,185.80 USD,shopping,Best Buy,debit card,Purchase,Failed
+T50091,C1010,,836.87 USD,Payment, Online Payment,Cash,Payment,Completed
+T50310,C1084,"November 12, 2024",68.68,shopping,Walmart,Credit Card,Purchase,Completed
+T50743,C1100,02/19/2024,42.22,Utilities,PA American Water,ACH Transfer,Purchase,Completed
+T50055,C1044,2024-12-31,-57.86,Shopping, Amazon,CC,Refund,Complete 
+T50082,C1066,"January 16, 2025",1459.93,Payment, Online Payment,debit card,Payment,Pending
+T50483,C1125,2024-03-13,208.49,Shopping,Amazon,Cash,Purchase,Completed
+T50462,C1110,2024-06-11,300.90,Entertainment,Regal Cinemas,debit card,Purchase,pending
+T50431,C1034,"February 10, 2024",N/A,Payment,Online Payment,Credit card,Payment,Completed
+T50316,C2016,2024-06-24,$221.78,DINING,McDonalds,Cash,Purchase,failed
+T50179,C1042,"January 05, 2024",406.99,Transport,Lyft,ACH,Purchase,Failed
+T50233,C1077,14/02/2024,293.31,Groceries,Wegmans,CASH,Purchase,Failed
+T50475,C1071,2025-04-05,$3.66,Groceries,Trader Joe's,ACH,Purchase,Failed
+T50265,C1034,"August 24, 2024",-$169.94,Transport,Shell,DEBIT,Refund,Completed
+T50099,C1090,2024-02-24,373.31,Transport,Sunoco,Debit,Purchase,Failed
+T50426,C1108,2024-05-16,93.30,UTILITIES,Comcast,Credit Card,Purchase,Completed
+T50021,C1010,2024-10-21,196.86,Retail,Amazon.com,ach,Purchase,Declined
+T50359,C1094,2024-02-27,-53.23,Utilities,PECO Energy,Credit Card,Refund,COMPLETE
+T50717,C1131,7/08/24,385.90,Shopping,Walmart,ACH,Purchase,Pending
+T50790,C1121,2024-01-28,302.47,groceries,Wegmans,CC,Purchase,Failed
+T50351,C1104,3/25/24,71.26,Utilities,PA American Water,ACH,Purchase,Completed
+T50003,C1060,2024-01-10,USD 95.34,Groceries,Trader Joe's,Credit Card,Purchase,Complete 
+T50249,C1006,04/10/2024,345.55 USD,Groceries,Wegmans,Cash,Purchase,PEND
+T50017,C1025,"April 20, 2025",377.29,Entertainment,Spotify,credit card,Purchase,Completed
+T50130,C1004,18/10/2024,713.19,Payment,Online Payment,debit card,Payment,Completed
+T50523,C1127,2024-02-10 06:31:06,105.07,Dining,Starbucks #4421,ach,Purchase,Pending
+T50692,C1087,2025-03-20 02:03:41,153.94 USD,Entertainment, Netflix,credit card,Purchase,Failed
+T50277,C1113,01/20/2024,191.39,Payment,Online Payment,Cash,Payment,Failed
+T50070,C1056,19/05/2024,-391.56 USD,DINING,Panera Bread,Credit Card,Refund,Completed
+T50174,C2026,2024-10-09,411.10,Transport,Uber,cash,Purchase,completed
+T50005,C1081,2025-05-12,$12.19,Shopping,Walmart,ACH Transfer,purchase,Failed
+T50242,C1097,"May 26, 2025",185.99,Groceries,Trader Joe's,cash,Purchase,Pending
+T50245,C1068,11/29/2024,323.94,transport,Lyft,DEBIT,Purchase,Completed
+T50012,C1052,06/15/2024,236.59 USD,Payment, Online Payment,ach,payment,Failed
+T50520,C1084,2024-07-15,-286.42,ENTERTAINMENT,Netflix,credit card,Refund,Completed
+T50299,C1045,"September 04, 2024",29.94 USD,Groceries,ACME Markets,Debit Card,Purchase,completed
+T50226,C1018,2025-02-08,412.72,Shopping,Amazon,Credit Card,Purchase,Pending
+T50235,C1069,07/07/2024,271.81,Transport,Sunoco,Debit,Purchase,Pending
+T50754,C1051,11/23/2024,286.86,Payment,Online Payment,ACH Transfer,Payment,Failed
+T50710,C1134,07/05/2024,148.01,Shopping,Best Buy,CASH,Purchase,COMPLETE
+T50090,C1040,2024-08-24 13:21:43,98.92,SHOPPING,WALMART,Debit Card,Purchase,Completed
+T50757,C1010,11/12/2024,111.48,UTILITIES,Verizon,ACH,Purchase,Completed
+T50570,C1026,05/06/2024,61.37 USD,Groceries,Giant Food,ach,Purchase,completed
+T50656,C1048,05/07/2024,99999.99,Grocery,Wegmans,credit card,Purchase,Failed
+T50632,C1047,29/09/2024,980.78,Payment,Online Payment,ACH,Payment,Completed
+T50702,C1096,01/14/2025,283.01,Entertainment,Regal Cinemas,Credit card,Purchase,Pending
+T50271,C1022,07/06/2024,400.85,transport,Shell,CC,Purchase,Completed
+T50328,C1120,2024-08-16,$61.45,Groceries,ACME Markets,DEBIT,Purchase,Completed
+T50177,C1124,03/01/2024,402.09,Entertainment,Spotify,Credit Card,Purchase,Declined
+T50670,C1054,2024-09-17,23.88,Shopping,WALMART,ACH,Purchase,Completed
+T50043,C1092,05/13/2025,64.32,groceries,Wegmans,Credit Card,Purchase,Completed
+T50427,C1115,2024-03-10,$89.56,Groceries,Trader Joe's,ACH,purchase,PEND
+T50388,C1048,10/13/2024,USD 972.53,Payment,Online Payment,CASH,Payment,Pending
+T50626,C1077,"December 19, 2024",44.07,Shopping,WALMART,Cash,Purchase,Completed
+T50565,C1002,"September 28, 2024",232.34,Dining,McDonald's,Cash,Purchase,Completed
+T50763,C1110,2025-04-18,$320.79,transport,Shell,Credit card,Purchase,Pending
+T50559,C1043,2025-04-06,44.01,Grocery,Giant Food,ACH Transfer,Purchase,Failed
+T50080,C1002,"December 14, 2024",-109.22,Retail,Best Buy,DEBIT,Purchase,Completed
+T50554,C1129,6/19/24,USD 698.88,Payment,Online Payment,cash,Payment,Complete 
+T50130,C1004,18/10/2024,713.19,Payment,Online Payment,debit card,Payment,Completed
+T50410,C1098,2024-08-07 06:38:31,129.88,Transport,Uber,cash,Purchase,Failed
+T50411,C1094,30/06/2024,1466.89,Payment,Online Payment,Credit card,Payment,Completed
+T50535,C1115,4/21/24,1276.65,Payment,Online Payment,cash,Payment,Failed
+T50050,C1139,2024-03-24,1311.59,Payment,Online Payment,Credit Card,Payment,Completed
+T50056,C1006,07/08/2024,59.88,Utilities,PA American Water,Cash,Purchase,Completed
+T50622,C1020,2025-04-09 11:01:31,$425.17,Transport,Uber Trip,cash,Purchase,Completed
+T50544,C1070,2024-05-22,$24.48,Transportation,Shell,ACH,Purchase,Completed
+T50456,C1127,2024-10-17,USD 436.73,Transport,Shell,ACH,Purchase,Pending
+T50441,C1121,08/27/2024,$394.10,Retail,amazon,Debit Card,Purchase,Completed
+T50356,C1140,"April 02, 2024",598.51,Payment,Online Payment,Credit Card,Payment,COMPLETE
+T50373,C1055,03/03/2024,230.21,Transport,Lyft,Cash,Purchase,Completed
+T50386,C1102,17/01/2024,92.23,TRANSPORT,Uber,credit card,Purchase,Completed
+T50079,C1110,11/05/2024,166.05,Dining,McDonald's,Cash,Purchase,Pending
+T50010,C1006,01/09/2025,$107.55,transport,Shell,Debit Card,Purchase,Completed
+T50267,C1031,"April 14, 2024",47.69,Transport,Lyft,ach,Purchase,FAIL
+T50387,C1115,2024-11-23,N/A,Grocery,Giant Food,Cash,Purchase,Completed
+T50677,C1121,02/27/2024,$327.86,SHOPPING,Best Buy,Debit Card,Purchase,Failed
+T50419,C1123,"August 14, 2024",220.43,Groceries,Wegmans,ACH,Purchase,Completed
+T50762,C1040,11/07/2024,335.59,Entertainment,Steam,Cash,Purchase,Completed
+T50789,C1083,27/03/2025,308.95,Transport,Sunoco,Credit Card,Purchase,Pending
+T50783,C1022,2024-08-20,N/A,transport,Lyft,Credit Card,Purchase,Completed
+T50266,C1045,11/06/2024,-69.43,Entertainment,Netflix.com,ACH,Purchase,COMPLETE
+T50297,C1087,unknown,$67.18,entertainment,Regal Cinemas,ACH,Purchase,Pending
+T50659,C1099,2024-08-19,8.32,Entertainment,Spotify,Credit Card,Purchase,Completed
+T50320,C1123,2024-07-25 23:46:15,374.16,Dining,Panera Bread,DEBIT,Purchase,Completed
+T50369,C1092,02/10/2025,123.14,Grocery,Giant Food,CASH,Purchase,Completed
+T50374,C1081,05/27/2025,N/A,Payment,Online Payment,Debit Card,Payment,Pending
+T50735,C1088,07/04/2024,-140.74,Dining,Chipotle,cash,Refund,COMPLETE
+T50547,C1037,2024-03-15,171.94,Retail,Wal-Mart,cash,Purchase,Completed
+T50509,C1063,"August 26, 2024",118.12,Restaurants,McDonalds,credit card,Purchase,Completed
+T50294,C1083,2024-10-04 10:21:58,(127.90),Utilities,PECO Energy,Credit card,Refund,Completed
+T50042,C1116,05/10/2024,231.81,Entertain.,Spotify,ach,Purchase,Completed
+T50706,C1131,12/04/2024,-178.05,entertainment,Spotify,,Refund,Completed
+T50098,C1053,05/06/2025,$32.90,Dining,mcdonald's,Credit card,Purchase,Completed
+T50081,C1066,2024-05-11,$223.55,Transport,Uber Trip,Credit Card,Purchase,Completed
+T50527,C1031,2024-06-14,351.01,ENTERTAINMENT,netflix,ACH,Purchase,Completed
+T50558,C1004,08/17/2024,377.44,Shopping,Best Buy,ACH,Purchase,Completed
+T50344,C1126,"March 15, 2025",207.09,ENTERTAINMENT,Regal Cinemas,Debit,Purchase,completed
+T50168,C1133,04/18/2025,919.72,Payment,Online Payment,DEBIT,Payment,Completed
+T50471,C1049,"August 17, 2024",235.86,Dining,McDonald's,Debit Card,Purchase,FAIL
+T50496,C1028,30/03/2024,USD 227.99,Groceries,Wegmans,Cash,Purchase,Failed
+T50188,C1093,2024-03-06,320.26,Restaurants,MCDONALDS,Credit Card,Purchase,Completed
+T50296,C1068,2025-01-26 20:29:06,251.43,entertainment,Regal Cinemas,ACH Transfer,Purchase,completed
+T50464,C1005,02/12/2025,433.97,Shopping,Walmart,ACH,Purchase,completed
+T50539,C1033,2025-03-01,N/A,Payment,Online Payment,ach,Payment,completed
+T50060,C1110,2024-05-24 10:03:45,128.87,Entertainment,Netflix,ACH,Purchase,Completed
+T50752,C1023,08/23/2024,-$444.61,Entertainment,Spotify,Cash,Refund,Pending
+T50101,C1087,04/23/2024,$221.61,Transport,Shell,Cash,Purchase,Completed
+T50518,C1092,,$396.02,Transport,Sunoco,Debit Card,Purchase,Completed
+T50745,C1038,"September 06, 2024",195.47,Transport,Shell,ACH,Purchase,Completed
+T50577,C1049,2025-04-09,235.77,Transport,uber,Cash,Purchase,Completed
+T50510,C1048,2024-10-07,204.00,Payment,Online Payment,Debit Card,Payment,Failed
+T50171,C1026,2024-06-04,0.00,Transport,Shell,Credit card,Purchase,Failed
+T50184,C1048,2024-06-17,377.74 USD,Entertainment,NETFLIX,ach,Purchase,Failed
+T50498,C1132,2024-08-07,191.47,Transport,Sunoco,CASH,Purchase,COMPLETE
+T50181,C1030,2025-01-12,213.90,Payment,Online Payment,Cash,Payment,Completed
+T50195,C1054,2024-08-16,$406.46,ENTERTAINMENT,Steam,Credit Card,Purchase,Completed
+T50322,C1014,04/26/2024,116.71,Transportation,uber,DEBIT,Purchase,Pending
+T50220,C1052,2024-11-09,100.28,Entertainment,Netflix,Debit Card,Purchase,Pending
+T50122,C1037,"August 22, 2024",109.65,Transport, Sunoco,Debit Card,Purchase,completed
+T50420,C1118,2024-11-04,238.89,TRANSPORT,Uber,Cash,Purchase,Completed
+T50730,C1001,2024-01-18 10:00:30,130.64,Bills,PECO Energy,ACH Transfer,Purchase,Failed
+T50795,C1042,8/10/24,196.10,shopping,walmart ,ACH,Purchase,Pending
+T50204,C1045,05/02/2024,-348.41,TRANSPORT,Sunoco,Cash,Purchase,Completed
+T50392,C1128,04/09/2025,8.79,Groceries,Trader Joe's,Cash,Purchase,Completed
+T50312,C1098,unknown,54.84,Dining,MCDONALDS,DEBIT,Purchase,Completed
+T50568,C1115,07/28/2024,346.88,GROCERIES,Wegmans,Credit Card,Purchase,Failed
+T50045,C1115,14/03/2024,257.43 USD,Dining,McDonalds,Credit Card,Purchase,Failed
+T50435,C1066,2024-04-08 04:51:56,265.35,Shopping,Amazon,cash,Purchase,failed
+T50253,C1132,2025-05-04,-131.62,Shopping,Best Buy,Debit Card,refund,Completed
+T50412,C1127,unknown,5.14,Entertainment,Netflix,Cash,Purchase,Pending
+T50512,C1107,21/03/2025,USD 10.03,Transport,Sunoco,Debit Card,Purchase,Completed
+T50455,C1069,2024-10-24,372.83,Groceries,Trader Joe's,Credit Card,Purchase,PEND
+T50347,C1112,03/14/2025,76.43 USD,Utilities,Verizon,ACH,Purchase,Completed
+T50560,C1080,,100.71,Entertainment,Netflix,Cash,Purchase,Completed
+T50625,C1085,02/03/2024,56.69,Utilities,PA American Water,debit card,Purchase,Pending
+T50124,C1098,2025-05-29,-251.48,Groceries,Giant Food,Credit Card,refund,Failed
+T50398,C1083,"January 21, 2025",61.18,Entertain.,Spotify,ach,Purchase,pending
+T50156,C1072,2024-12-14 04:33:06,46.32,UTILITIES,Verizon,Credit Card,Purchase,Completed
+T50521,C1087,2024-12-02,81.72,Utilities,Comcast,Debit Card,Purchase,Completed
+T50225,C1037,11/28/2024,12.79,entertainment,Netflix,CC,Purchase,Failed
+T50528,C1050,2024-01-08 02:44:13,126.26,Groceries,Wegmans,ACH,Purchase,completed
+T50203,C1095,unknown,403.23,Transport,UBER,Debit Card,Purchase,Completed
+T50037,C2023,2024-04-21,106.51,Groceries, Wegmans,ACH Transfer,Purchase,Complete 
+T50163,C1080,2024-11-22,399.51,Transport,Shell,ACH,Purchase,Completed
+T50378,C1074,2024-07-22,248.89,Shopping,amazon.com,Credit card,Purchase,Failed
+T50370,C2028,2024-01-16,449.51,Payment,Online Payment,Cash,Payment,Completed
