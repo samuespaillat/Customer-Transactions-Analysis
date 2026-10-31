@@ -96,4 +96,4 @@ A screenshot of the dashboard is included in the repository.
 
 ## Data Disclaimer
 
-All data used in this project is fictional and intended for educational and portfolio purposes only.
+All data used in this project is fictional and created through the use of Claude AI.
